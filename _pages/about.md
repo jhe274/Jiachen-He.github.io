@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/20240725_FaradayLab2.jpg" alt="Faraday Lab" align="right" width="800">
+![Faraday Lab](/images/20240725_FaradayLab.jpg){: .align-right width="800px"}
 
 👨‍💻 I’m a final-year Ph.D. candidate in Physics at the University of Kentucky, specializing in **lasers, optics, and magnetic field design**.
 
