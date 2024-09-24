@@ -96,5 +96,5 @@ Service and Leadership
 
 ---
 
-[Download my CV](path_to_cv.pdf)
+[Download my CV](/CV_Jiachen_He.pdf)
 
