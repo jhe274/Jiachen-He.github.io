@@ -32,9 +32,9 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=ZKLCGLcAAAAJ&hl=en&authuser=1"
+  googlescholar    : "citations?user=ZKLCGLcAAAAJ&hl=en&authuser=1"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0005-6848-0797"
+  orcid            : "0009-0005-6848-0797"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Jiachen-He-2"
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/jhe274"
+  github           : "jhe274"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
