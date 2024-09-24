@@ -19,17 +19,28 @@ Work Experience
 ======
 * **Graduate Research Assistant**  
   University of Kentucky, August 2019 - Present  
-  - Developed Python-based systems for synchronous data acquisition (SDAQ) in scientific experiments.
-  - Designed and implemented a Merritt coil system for magnetic field design using Python and COMSOL.
-  - Led research projects on optical alignment, polarization modulation, and laser frequency stabilization.
-  - Collaborated with cross-functional teams to develop custom experimental setups using advanced optical and laser technologies.
+  - Software Development: Developed Python package for the wavelength meter, facilitating efficient communication and buffer usage without relying on low-level SCPI commands.
+
+  - Data Analysis: Created and implemented multiple Python scripts for comprehensive Faraday rotation data analysis. All scripts and packages are available on GitHub to promote transparency and collaboration in scientific research.
+
+  - Synchronous Data Acquisition (SDAQ): Proficient in developing modular Python-based SDAQ systems for communication with scientific instruments such as digital I/O interfaces, wavelength meters, laser controllers, lock-in amplifiers, and Gaussmeters. The system efficiently initializes, configures, and synchronizes instruments, sending TTL-level pulse trigger signals and recording data in their buffers.
+    
+  - Polarization Modulation Ellipsometry (PME): Expert in birefringence measurement system, including calibration and optimization. Performed precise optical alignment, utilizing lock-in amplifiers, Muller calculus, and waveform analysis to achieve sub-$\mu$rad accuracy in sensitive optical signal measurements.
+    
+  - Merritt Coil Development and Implementation: Designed and simulated (using Python) a Merritt coil system, followed by Autodesk Inventor modeling to incorporate mechanical engineering tasks for its development and construction. Collaborated closely with machine shop teams to ensure successful project delivery.
+    
+  - Magnetic Field Design: Independently developed a magnet box prototype, applying finite element analysis (COMSOL) to create uniform magnetic fields with shielding. This early-career project deepened my experience with FEA software and involved leveraging concepts like magnetic scalar potential and image fields.
+
+  - Laser Frequency Stabilization: Extensive experience in spectroscopic laser frequency stabilization using PDH and DSAS techniques with alkali metals (Rb, K).
+
+  - Ongoing Projects: Machine learning algorithms for real-time magnetic field cancellation, Python package for Gaussmeter and implementing side-band laser locking using EOM.
   
 * **Graduate Teaching Assistant**  
   University of Kentucky, August 2017 - May 2019  
   - Instructed undergraduate physics labs and provided support for coursework.
   - Assisted in preparing teaching materials, grading, and answering student inquiries during lab sessions.
 
-* **Research Assistant**  
+* **Summer Research Assistant**  
   University of Kentucky, May 2018 - August 2018  
   - Conducted research on Etch Track-Directed Growth of Carbon Nanotubes on Graphite.
   - Utilized chemical vapor deposition techniques to create graphene/boron nitride samples.
