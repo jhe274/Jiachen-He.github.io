@@ -3,7 +3,7 @@ title: "Lab Teaching Assistant: PHY 211 (Physics for pre-meds)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-fall-teaching-1
-venue: "University of Kentucky, Department of Physics & Astronomy"
+venue: "Department of Physics & Astronomy, University of Kentucky"
 date: 2017-08-23
 location: "Lexington, KY"
 ---

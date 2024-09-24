@@ -3,7 +3,7 @@ title: "Recitation Teaching Assistant: PHY 232"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-spring-teaching-1
-venue: "University of Kentucky, Department of Physics & Astronomy"
+venue: "Department of Physics & Astronomy, University of Kentucky"
 date: 2018-01-10
 location: "Lexington, KY"
 ---
