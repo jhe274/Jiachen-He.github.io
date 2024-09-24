@@ -80,8 +80,7 @@ Teaching
 Leadership & Awards
 ======
 * **Graduate Student Congress Representative**  
-  University of Kentucky, August 2023 - August 2024  
-  - Represented physics students in university governance.
+  University of Kentucky, August 2023 - August 2024
 * **Graduate Student Congress (GSC) Conference Award**
   University of Kentucky, April 2024
 * **Huffaker Travel Scholarship**
