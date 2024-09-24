@@ -65,15 +65,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-* Korsch, W., Broering, M., Timsina, A., Leung, K.K., Abney, J., Budker, D., Filippone, B.W., He, J., et al. "Electric Charging Effects on Insulating Surfaces in Cryogenic Liquids." *Review of Scientific Instruments*, 2024.
-
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-
-* "Resonant Faraday Rotation Measurements in a Potassium Vapor Cell." American Physical Society April meeting, Sacramento, April 2024.
 
 Teaching
 ======
@@ -81,17 +77,26 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-* Instructor for Undergraduate Physics Labs at the University of Kentucky, 2017-2019.
-
-Service and Leadership
+Leadership & Awards
 ======
 * **Graduate Student Congress Representative**  
   University of Kentucky, August 2023 - August 2024  
   - Represented physics students in university governance.
-* **Volunteer Work**  
-  Raleigh International Gorkha, Nepal, July 2016 - August 2016  
+* **Graduate Student Congress (GSC) Conference Award**
+  University of Kentucky, April 2024
+* **Huffaker Travel Scholarship**
+  Department of Physics & Astronomy, University of Kentucky, July 2022, April 2024
+* **Departmental fellowship for graduate students with an outstanding curriculum**
+  Department of Physics & Astronomy, University of Kentucky, August 2017 - May 2019
+* **Max Steckler Fellowship, Graduate School Fellowship**
+  Department of Physics & Astronomy, University of Kentucky, August 2018
+
+
+Volunteering
+======
+* **Raleigh International Gorkha, Nepal**, July 2016 - August 2016  
   - Participated in community development projects, including water purification and sanitation improvements.
-* **Exceptional Volunteer**  
+* **Exceptional Volunteer**, August 15 - August 201
   Intel Developer Forum 2015, Shenzhen, China, August 2015  
 
 ---
