@@ -96,7 +96,7 @@ Volunteering
 ======
 * **Raleigh International Gorkha, Nepal**, July 2016 - August 2016  
   - Participated in community development projects, including water purification and sanitation improvements.
-* **Exceptional Volunteer**, August 15 - August 201
+* **Exceptional Volunteer**, August 15 - August 21 2015
   Intel Developer Forum 2015, Shenzhen, China, August 2015  
 
 ---

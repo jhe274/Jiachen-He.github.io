@@ -8,13 +8,13 @@ date: 2018-01 -- 2018-05
 location: "Lexington, KY"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+A general course covering electricity, magnetism, electromagnetic waves and physical optics. Lecture, three hours; recitation, one hour per week.
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->

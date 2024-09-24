@@ -8,13 +8,13 @@ date: 2019-01 -- 2019-05
 location: "Lexington, KY"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+A laboratory course offering experiments in electricity, magnetism, and light, framed in a small group environment that requires coordination and team work in the development of a well written lab report.
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->

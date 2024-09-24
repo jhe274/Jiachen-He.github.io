@@ -8,13 +8,13 @@ date: 2017-08 -- 2017-12
 location: "Lexington, KY"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+First part of a two-semester survey of classical and modern physics, focusing on the motion of solids and fluids as governed by Newton's Laws and by the conservation laws of energy, momentum, and angular momentum. Lecture, two hours; recitation, two hours; laboratory, two hours.
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->
