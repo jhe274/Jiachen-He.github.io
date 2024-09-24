@@ -13,9 +13,9 @@ Education
 ======
 * Ph.D. in Physics, University of Kentucky, (Expected Graduation: May 2025)
 * M.S. in Physics, University of Kentucky, 2019
-* B.E. in Measurement Control Technology and Instruments, Shenzhen University, 2014
+* B.E. in Measurement Control Technology and Instruments, Shenzhen University, 2017
 
-Work Experience
+Professional Experience
 ======
 * **Graduate Research Assistant**  
   University of Kentucky, August 2019 - Present  
@@ -45,6 +45,14 @@ Work Experience
   - Conducted research on Etch Track-Directed Growth of Carbon Nanotubes on Graphite.
   - Utilized chemical vapor deposition techniques to create graphene/boron nitride samples.
   - Studied frictional properties on the surface of graphene using a microfluidic probe.
+  
+* **Grduation Project**
+  Shenzhen University, September 2015 - May 2016
+  - Research on the Control System of Intelligent Fish Tank Based on Single Chip Microcomputer
+
+* **Open Laboratory Fund Project**
+  Shenzhen University, September 2012 - October 2013
+  - Research on the Design of Temperature-controlled Automatic Watering Device
 
 Skills
 ======
