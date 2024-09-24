@@ -93,10 +93,11 @@ Leadership & Awards
 
 Volunteering
 ======
-* **Raleigh International Gorkha, Nepal**, July 2016 - August 2016  
+* **Raleigh International Gorkha, Nepal**, July 2016 - August 2016
+  - Created a simple webpage using online tools and successfully raised £2000 within two days to support a charity program aiding the earthquake-affected village of Chuwatar, Nepal.
   - Participated in community development projects, including water purification and sanitation improvements.
-* **Exceptional Volunteer**, August 15 - August 21 2015
-  - Intel Developer Forum 2015, Shenzhen, China, August 2015  
+* **Intel Developer Forum 2015, Shenzhen, China**, August 15 - August 21 2015
+  - Selected as one of the top 10 out of 500 volunteers and recognized as an "Exceptional Volunteer"
 
 ---
 
