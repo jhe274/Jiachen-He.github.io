@@ -16,6 +16,7 @@ redirect_from:
 🎓 Currently, I am working towards completing my Ph.D. dissertation, where I am developing a **sensitive optical magnetometer utilizing the resonant Faraday effect**. Additionally, I have created Python-based systems for **synchronous data acquisition** and designed a **Merritt coil system** for **active magnetic field cancellation**.
 
 🎯 I am passionate about leveraging **Python** and other software tools to enhance scientific workflows and improve the accuracy of experimental results.
+
 ---
 
 ## Selected Experience
