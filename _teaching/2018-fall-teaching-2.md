@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-fall-teaching-1
 venue: "University of Kentucky, Department of Physics & Astronomy"
-date: 2018-08
+date: 2018-08-22
 location: "Lexington, KY"
 ---
 
