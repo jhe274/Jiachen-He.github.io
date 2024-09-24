@@ -19,21 +19,21 @@ Work Experience
 ======
 * **Graduate Research Assistant**  
   University of Kentucky, August 2019 - Present  
-  - Software Development: Developed Python package for the wavelength meter, facilitating efficient communication and buffer usage without relying on low-level SCPI commands.
+  - **Software Development**: Developed Python package for the wavelength meter, facilitating efficient communication and buffer usage without relying on low-level SCPI commands.
 
-  - Data Analysis: Created and implemented multiple Python scripts for comprehensive Faraday rotation data analysis. All scripts and packages are available on GitHub to promote transparency and collaboration in scientific research.
+  - **Data Analysis**: Created and implemented multiple Python scripts for comprehensive Faraday rotation data analysis. All scripts and packages are available on GitHub to promote transparency and collaboration in scientific research.
 
-  - Synchronous Data Acquisition (SDAQ): Proficient in developing modular Python-based SDAQ systems for communication with scientific instruments such as digital I/O interfaces, wavelength meters, laser controllers, lock-in amplifiers, and Gaussmeters. The system efficiently initializes, configures, and synchronizes instruments, sending TTL-level pulse trigger signals and recording data in their buffers.
+  - **Synchronous Data Acquisition (SDAQ)**: Proficient in developing modular Python-based SDAQ systems for communication with scientific instruments such as digital I/O interfaces, wavelength meters, laser controllers, lock-in amplifiers, and Gaussmeters. The system efficiently initializes, configures, and synchronizes instruments, sending TTL-level pulse trigger signals and recording data in their buffers.
     
-  - Polarization Modulation Ellipsometry (PME): Expert in birefringence measurement system, including calibration and optimization. Performed precise optical alignment, utilizing lock-in amplifiers, Muller calculus, and waveform analysis to achieve sub-$\mu$rad accuracy in sensitive optical signal measurements.
+  - **Polarization Modulation Ellipsometry (PME)**: Expert in birefringence measurement system, including calibration and optimization. Performed precise optical alignment, utilizing lock-in amplifiers, Muller calculus, and waveform analysis to achieve sub-$\mu$rad accuracy in sensitive optical signal measurements.
     
-  - Merritt Coil Development and Implementation: Designed and simulated (using Python) a Merritt coil system, followed by Autodesk Inventor modeling to incorporate mechanical engineering tasks for its development and construction. Collaborated closely with machine shop teams to ensure successful project delivery.
+  - **Merritt Coil Development and Implementation**: Designed and simulated (using Python) a Merritt coil system, followed by Autodesk Inventor modeling to incorporate mechanical engineering tasks for its development and construction. Collaborated closely with machine shop teams to ensure successful project delivery.
     
-  - Magnetic Field Design: Independently developed a magnet box prototype, applying finite element analysis (COMSOL) to create uniform magnetic fields with shielding. This early-career project deepened my experience with FEA software and involved leveraging concepts like magnetic scalar potential and image fields.
+  - **Magnetic Field Design**: Independently developed a magnet box prototype, applying finite element analysis (COMSOL) to create uniform magnetic fields with shielding. This early-career project deepened my experience with FEA software and involved leveraging concepts like magnetic scalar potential and image fields.
 
-  - Laser Frequency Stabilization: Extensive experience in spectroscopic laser frequency stabilization using PDH and DSAS techniques with alkali metals (Rb, K).
+  - **Laser Frequency Stabilization**: Extensive experience in spectroscopic laser frequency stabilization using PDH and DSAS techniques with alkali metals (Rb, K).
 
-  - Ongoing Projects: Machine learning algorithms for real-time magnetic field cancellation, Python package for Gaussmeter and implementing side-band laser locking using EOM.
+  - **Ongoing Projects**: Machine learning algorithms for real-time magnetic field cancellation, Python package for Gaussmeter and implementing side-band laser locking using EOM.
   
 * **Graduate Teaching Assistant**  
   University of Kentucky, August 2017 - May 2019  
