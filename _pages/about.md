@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to the home of "
+title: "👋🏼 Welcome, I'm Jiachen He!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# 👋🏼 Welcome, I'm Jiachen He!
+![Faraday Lab](/images/20240725_FaradayLab.jpg){: .align-right width="300px}
 
 👨‍💻 I’m a final-year Ph.D. candidate in Physics at the University of Kentucky, specializing in **lasers, optics, and magnetic field design**.
 
