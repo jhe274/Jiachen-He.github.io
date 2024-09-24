@@ -23,7 +23,7 @@ redirect_from:
 ### 🔧 **Scientific Software Development**
 I have developed and maintained several Python packages that contribute to scientific research, including:
 - **Faraday Rotation Data Analysis**: A tool for analyzing rotation measurements with high sensitivity, crucial for advanced magnetometry.
-- **Synchronous Data Acquisition (SDAQ)**: A modular system that facilitates seamless communication between scientific instruments, such as wavelength meters, laser controllers, and lock-in amplifiers using **Python**
+- **Synchronous Data Acquisition (SDAQ)**: A modular system that facilitates seamless communication between scientific instruments, such as wavelength meters, laser controllers, and lock-in amplifiers using Python
 
 You can explore all my software contributions on my [GitHub profile](https://github.com/jhe274), where I promote transparency and collaboration in scientific research.
 
