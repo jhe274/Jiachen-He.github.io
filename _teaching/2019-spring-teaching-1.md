@@ -1,10 +1,10 @@
 ---
-title: "Recitation Teaching Assistant: PHY 232"
+title: "Lab Teaching Assistant: PHY 242"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2018-spring-teaching-1
+permalink: /teaching/2019-spring-teaching-1
 venue: "University of Kentucky, Department of Physics & Astronomy"
-date: 2018-01 -- 2018-05
+date: 2019-01 -- 2019-05
 location: "Lexington, KY"
 ---
 
