@@ -109,5 +109,5 @@ Volunteering
 
 ---
 
-[Download my CV](/files/CV_Jiachen_He.pdf)
+[Download my CV]([/files/CV_Jiachen_He.pdf](https://github.com/jhe274/portfolio-bruce.github.io/blob/941a648997a4ca59a96e10b22daeaa770bcacb5f/files/CV_Jiachen_He.pdf))
 
