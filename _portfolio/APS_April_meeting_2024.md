@@ -10,8 +10,6 @@ For this study, a tunable diode laser operating at a wavelength near the potassi
 
 The primary objective of this study is to explore the potential application of the resonant Faraday effect in probing the polarization dynamics of helium-3 within hybrid Spin Exchange Optical Pumping (SEOP) cells. Progress on the status of the experiment will be presented.
 
-## PDF Thumbnail
-
 <div id="pdf-thumbnail-wrapper">
   <a href="/files/Jiachen He APS April meeting 2024.pdf" target="_blank">
     <canvas id="pdf-thumbnail" width="200"></canvas>
