@@ -1,6 +1,6 @@
 ---
 title: "Resonant Faraday rotation measurements in a potassium vapor cell"
-excerpt: "APS April Meeting 2024 <br/><img src='[/images/Jiachen He APS April meeting 2024.png](https://github.com/jhe274/portfolio-bruce.github.io/blob/a1e336b3c3b8144d895c135aae2f1c0c659e1ff7/images/Jiachen%20He%20APS%20April%20meeting%202024.png)'>"
+excerpt: "APS April Meeting 2024 <br/><img src='/images/Jiachen He APS April meeting 2024.png'>"
 collection: portfolio
 ---
 
@@ -13,5 +13,5 @@ The primary objective of this study is to explore the potential application of t
 
 <!-- <iframe src="/files/Jiachen He APS April meeting 2024.pdf" width="100%" height="700px"></iframe> -->
 
-<!-- [Download my presentation slides]('https://github.com/jhe274/portfolio-bruce.github.io/blob/08fa9536f7b279a77d2fa75433f76bf9cfcaab45/files/Jiachen_He_APS_April_meeting_2024.pdf') -->
+[Download my presentation slides]('https://portfolio-bruce.github.io/files/Jiachen_He_APS_April_meeting_2024.pdf')
 
