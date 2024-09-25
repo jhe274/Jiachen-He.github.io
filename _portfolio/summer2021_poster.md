@@ -1,7 +1,7 @@
 ---
 title: "A compact magnet design to create low-gradient magnetic field in the presence of magnetic shielding"
-excerpt: "Sumer 2021 poster<br/><img src='images/Jiachen_He_summer_2021_poster.png'>"
+excerpt: "Sumer 2021 poster<br/><img src='/Jiachen_He_summer_2021_poster.png'>"
 collection: portfolio
 ---
 
-<p><a href="https://jhe274.github.io/portfolio-bruce.github.io//files/Jiachen_He_summer_2021_poster.pdf" target="_blank">Download my poster</a></p>
+<p><a href="/Jiachen_He_summer_2021_poster.pdf" target="_blank">Download my poster</a></p>
