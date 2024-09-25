@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
 Awarded Second Overall Best Poster
-<p><a href="{{ base_path }}/Jiachen_He_summer_2024_poster.pdf" target="_blank">Download my poster</a></p>
+<p><a href="{{ base_path }}/portfolio-bruce.github.io//portfolio//Jiachen_He_summer_2024_poster.pdf" target="_blank">Download my poster</a></p>
