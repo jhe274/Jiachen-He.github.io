@@ -9,10 +9,6 @@ redirect_from:
   - 
 ---
 
-![20240725_FaradayLab](https://github.com/user-attachments/assets/41d5cf4f-8dfa-4042-ba55-8e30aea3e194){: .align-right width="700px"}
-
-<!-- ![Faraday Lab](/images/20240725_FaradayLab.jpg){: .align-right width="700px"} -->
-
 👨‍💻 I’m a final-year Ph.D. candidate in Physics at the University of Kentucky, specializing in **lasers, optics, and magnetic field design**.
 
 🔬 My research focuses on advanced **optical and magnetic systems**, with an emphasis on the **magneto-optic effect**, data acquisition, analysis, and the development of high-precision instrumentation.
