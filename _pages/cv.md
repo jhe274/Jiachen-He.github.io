@@ -109,5 +109,4 @@ Volunteering
 
 ---
 
-<!-- [Download my CV](files/CV_Jiachen_He.pdf) -->
-
+<p><a href="{{ base_path }}/files/CV_Jiachen_He.pdf" target="_blank">Download my CV</a></p>
