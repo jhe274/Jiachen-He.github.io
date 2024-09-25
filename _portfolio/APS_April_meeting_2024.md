@@ -13,5 +13,4 @@ The primary objective of this study is to explore the potential application of t
 
 <!-- <iframe src="/files/Jiachen He APS April meeting 2024.pdf" width="100%" height="700px"></iframe> -->
 
-[Download my presentation slides]('/files/Jiachen_He_APS_April_meeting_2024.pdf')
-
+[Download my presentation slides](https://portfolio-bruce.github.io/files/Jiachen_He_APS_April_meeting_2024.pdf)
