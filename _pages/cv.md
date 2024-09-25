@@ -109,5 +109,5 @@ Volunteering
 
 ---
 
-[Download my CV](/CV_Jiachen_He.pdf)
+[Download my CV](/files/CV_Jiachen_He.pdf)
 
