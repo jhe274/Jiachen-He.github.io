@@ -5,5 +5,5 @@ collection: portfolio
 ---
 
 Awarded Second Overall Best Poster
-<iframe src="/files/Jiachen He Summer 2024 poster.pdf" frameborder="0"></iframe>
+<iframe src="/files/Jiachen He Summer 2024 poster.pdf" width="100%" height="700px"></iframe>
 
