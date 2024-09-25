@@ -108,6 +108,6 @@ Volunteering
   - Selected as one of the top 10 out of 500 volunteers and recognized as an "Exceptional Volunteer"
 
 ---
-![Example Image](/images/500x300.png)
+
 [Download my CV](/files/CV_Jiachen_He.pdf)
 
