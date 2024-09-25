@@ -4,4 +4,4 @@ excerpt: "Sumer 2021 poster<br/><img src='images/Jiachen_He_summer_2021_poster.p
 collection: portfolio
 ---
 
-[Download my poster]('files/Jiachen_He_summer_2021_poster.pdf')
+<p><a href="{{ base_path }}/files/Jiachen_He_summer_2021_poster.pdf" target="_blank">Download my presentation slides</a></p>

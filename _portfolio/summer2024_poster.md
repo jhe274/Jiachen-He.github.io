@@ -5,5 +5,4 @@ collection: portfolio
 ---
 
 Awarded Second Overall Best Poster
-[Download my poster]('files/Jiachen_He_summer_2024_poster.pdf')
-
+<p><a href="{{ base_path }}/files/Jiachen_He_summer_2024_poster.pdf" target="_blank">Download my presentation slides</a></p>
