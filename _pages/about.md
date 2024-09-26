@@ -9,6 +9,8 @@ redirect_from:
   - 
 ---
 
+![Faraday Lab overlook 1](/images/Faraday_lab1.jpg){: .align-right width="700px"}
+
 👨‍💻 I’m a final-year Ph.D. candidate in Physics at the University of Kentucky, specializing in **lasers, optics, and magnetic field design**.
 
 🔬 My research focuses on advanced **optical and magnetic systems**, with an emphasis on the **magneto-optic effect**, data acquisition, analysis, and the development of high-precision instrumentation.
@@ -27,6 +29,8 @@ I have developed and maintained several Python packages that contribute to scien
 - **Synchronous Data Acquisition (SDAQ)**: A modular system that facilitates seamless communication between scientific instruments, such as wavelength meters, laser controllers, and lock-in amplifiers using Python
 
 You can explore all my software contributions on my [GitHub profile](https://github.com/jhe274), where I promote transparency and collaboration in scientific research.
+
+![Faraday Lab overlook 1](/images/Faraday_lab1.jpg){: .align-left width="700px"}
 
 ### 🌀 **Polarization Modulation Ellipsometry**
 I am an expert in **birefringence measurement systems**, with particular emphasis on system setup, calibration, and optimization. Using lock-in amplifiers, Muller calculus, and waveform analysis, I have achieved **sub-μrad accuracy** in measuring sensitive optical signals.
