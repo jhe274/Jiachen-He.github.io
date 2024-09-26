@@ -14,16 +14,13 @@ redirect_from:
   <figcaption><em>Take a look at where I work.</em></figcaption>
 </figure>
 
-<!-- ![Faraday Lab overlook 1](/portfolio-bruce.github.io/images/Faraday_lab1.jpg){: .align-right width="500px"}
-*Figure 1: Take a look at where I work.* -->
-
 👨‍💻 I’m a final-year Ph.D. candidate in Physics at the University of Kentucky, specializing in **lasers, optics, and magnetic field design**.
 
 🔬 My research focuses on advanced **optical and magnetic systems**, with an emphasis on the **magneto-optic effect**, data acquisition, analysis, and the development of high-precision instrumentation.
 
 🎓 Currently, I am working towards completing my Ph.D. dissertation, where I am developing a **sensitive optical magnetometer utilizing the resonant Faraday effect**. Additionally, I have created Python-based systems for **synchronous data acquisition** and designed a **Merritt coil system** for **active magnetic field cancellation**.
 
-🎯 I am passionate about leveraging **Python** and other software tools to enhance scientific workflows and improve the accuracy of experimental results.
+🎯 I am passionate about integrating machine learning, quantum technology, and engineering principles with Python, C++, and other software tools to optimize scientific workflows, advance hardware development, and enhance the precision of experimental outcomes.
 
 ---
 
@@ -60,8 +57,6 @@ As a **Graduate Research Assistant** at the University of Kentucky, I have led a
   <img src="/portfolio-bruce.github.io/images/UKy_Chem-Phys-Bldg.jpg" alt="Chem-Phys Bldg, University of Kentucky" style="width: 100%;">
   <figcaption><em>My favorite view of the department.</em></figcaption>
 </figure>
-<!-- ![University of Kentucky, Chem-Phys Bldg](/portfolio-bruce.github.io/images/UKy_Chem-Phys-Bldg.jpg){: .align-right width="500px"}
-*Figure 3: My favorite view of the department.* -->
 
 ## 📚 **Education**
 - **Ph.D. in Physics**, University of Kentucky (Expected Graduation: May 2025)
@@ -76,7 +71,7 @@ As a **Graduate Research Assistant** at the University of Kentucky, I have led a
 
 ---
 
-## 📽️ **Looking for Collaborations?**
+## 🤝 **Looking for Collaborations?**
 I am always eager to explore new research collaborations and share knowledge in fields such as **optics, laser technology, magnetic systems, quantum technology and scientific computing**.
 
 Feel free to browse my repositories and reach out to me for potential collaborations or discussions on **scientific software development**.
