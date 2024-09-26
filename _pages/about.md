@@ -77,7 +77,7 @@ As a **Graduate Research Assistant** at the University of Kentucky, I have led a
 ---
 
 ## 📽️ **Looking for Collaborations?**
-I am always eager to explore new research collaborations and share knowledge in fields such as **optics, laser technology, magnetic systems, and scientific computing**.
+I am always eager to explore new research collaborations and share knowledge in fields such as **optics, laser technology, magnetic systems, quantum technology and scientific computing**.
 
 Feel free to browse my repositories and reach out to me for potential collaborations or discussions on **scientific software development**.
 
