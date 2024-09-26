@@ -9,8 +9,13 @@ redirect_from:
   - 
 ---
 
-![Faraday Lab overlook 1](/portfolio-bruce.github.io/images/Faraday_lab1.jpg){: .align-right width="500px"}
-*Figure 1: Take a look at where I work.*
+<figure>
+  <img src="/portfolio-bruce.github.io/images/Faraday_lab1.jpg" alt="Faraday Lab overlook" style="width:500px">
+  <figcaption><em>Take a look at where I work.</em></figcaption>
+</figure>
+
+<!-- ![Faraday Lab overlook 1](/portfolio-bruce.github.io/images/Faraday_lab1.jpg){: .align-right width="500px"}
+*Figure 1: Take a look at where I work.* -->
 
 👨‍💻 I’m a final-year Ph.D. candidate in Physics at the University of Kentucky, specializing in **lasers, optics, and magnetic field design**.
 
@@ -31,8 +36,10 @@ I have developed and maintained several Python packages that contribute to scien
 
 You can explore all my software contributions on my [GitHub profile](https://github.com/jhe274), where I promote transparency and collaboration in scientific research.
 
-![Faraday Lab overlook 2](/portfolio-bruce.github.io/images/Faraday_lab2.jpg){: .align-left width="500px"}
-*Figure 2: Take another look at where I work.*
+<figure>
+  <img src="/portfolio-bruce.github.io/images/Faraday_lab2.jpg" alt="Faraday Lab overlook" style="width:500px">
+  <figcaption><em>Take another look at where I work.</em></figcaption>
+</figure>
 
 ### 🌀 **Polarization Modulation Ellipsometry**
 I am an expert in **birefringence measurement systems**, with particular emphasis on system setup, calibration, and optimization. Using lock-in amplifiers, Muller calculus, and waveform analysis, I have achieved **sub-μrad accuracy** in measuring sensitive optical signals.
@@ -49,8 +56,12 @@ As a **Graduate Research Assistant** at the University of Kentucky, I have led a
 
 ---
 
-![University of Kentucky, Chem-Phys Bldg](/portfolio-bruce.github.io/images/UKy_Chem-Phys-Bldg.jpg){: .align-right width="500px"}
-*Figure 3: My favorite view of the department.*
+<figure>
+  <img src="/portfolio-bruce.github.io/images/UKy_Chem-Phys-Bldg.jpg" alt="Chem-Phys Bldg, University of Kentucky" style="width:500px">
+  <figcaption><em>My favorite view of the department.</em></figcaption>
+</figure>
+<!-- ![University of Kentucky, Chem-Phys Bldg](/portfolio-bruce.github.io/images/UKy_Chem-Phys-Bldg.jpg){: .align-right width="500px"}
+*Figure 3: My favorite view of the department.* -->
 
 ## 📚 **Education**
 - **Ph.D. in Physics**, University of Kentucky (Expected Graduation: May 2025)
