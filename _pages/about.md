@@ -55,7 +55,7 @@ As a **Graduate Research Assistant** at the University of Kentucky, I have led a
 
 <figure style="float: right; width: 500px;">
   <img src="/portfolio-bruce.github.io/images/UKy_Chem-Phys-Bldg.jpg" alt="Chem-Phys Bldg, University of Kentucky" style="width: 100%;">
-  <figcaption><em>My favorite view of the department.</em></figcaption>
+  <figcaption><em>My favorite view of the Chem-Phys Bldg at University of Kentucky.</em></figcaption>
 </figure>
 
 ## 📚 **Education**
