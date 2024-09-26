@@ -11,6 +11,8 @@ redirect_from:
 
 ![Faraday Lab overlook 1](/portfolio-bruce.github.io/images/Faraday_lab1.jpg){: .align-right width="500px"}
 
+*Figure 1: Take a look at where I work.*
+
 👨‍💻 I’m a final-year Ph.D. candidate in Physics at the University of Kentucky, specializing in **lasers, optics, and magnetic field design**.
 
 🔬 My research focuses on advanced **optical and magnetic systems**, with an emphasis on the **magneto-optic effect**, data acquisition, analysis, and the development of high-precision instrumentation.
@@ -32,6 +34,8 @@ You can explore all my software contributions on my [GitHub profile](https://git
 
 ![Faraday Lab overlook 2](/portfolio-bruce.github.io/images/Faraday_lab2.jpg){: .align-left width="500px"}
 
+*Figure 2: Take another look at where I work.*
+
 ### 🌀 **Polarization Modulation Ellipsometry**
 I am an expert in **birefringence measurement systems**, with particular emphasis on system setup, calibration, and optimization. Using lock-in amplifiers, Muller calculus, and waveform analysis, I have achieved **sub-μrad accuracy** in measuring sensitive optical signals.
 
@@ -46,6 +50,10 @@ I have extensive experience in **laser frequency stabilization**, employing adva
 As a **Graduate Research Assistant** at the University of Kentucky, I have led and contributed to numerous research projects focused on **optical alignment, polarization modulation, and magnetic field optimization**. I have worked closely with cross-functional teams to design and implement custom experimental setups using state-of-the-art optical and laser technologies.
 
 ---
+
+![University of Kentucky, Chem-Phys Bldg](/portfolio-bruce.github.io/images/UKy_Chem-Phys-Bldg.jpg){: .align-right width="500px"}
+
+*Figure 3: My favorite view of the department.*
 
 ## 📚 **Education**
 - **Ph.D. in Physics**, University of Kentucky (Expected Graduation: May 2025)
