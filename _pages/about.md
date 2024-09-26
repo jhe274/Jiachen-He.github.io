@@ -10,7 +10,6 @@ redirect_from:
 ---
 
 ![Faraday Lab overlook 1](/portfolio-bruce.github.io/images/Faraday_lab1.jpg){: .align-right width="500px"}
-
 *Figure 1: Take a look at where I work.*
 
 👨‍💻 I’m a final-year Ph.D. candidate in Physics at the University of Kentucky, specializing in **lasers, optics, and magnetic field design**.
@@ -33,7 +32,6 @@ I have developed and maintained several Python packages that contribute to scien
 You can explore all my software contributions on my [GitHub profile](https://github.com/jhe274), where I promote transparency and collaboration in scientific research.
 
 ![Faraday Lab overlook 2](/portfolio-bruce.github.io/images/Faraday_lab2.jpg){: .align-left width="500px"}
-
 *Figure 2: Take another look at where I work.*
 
 ### 🌀 **Polarization Modulation Ellipsometry**
@@ -52,7 +50,6 @@ As a **Graduate Research Assistant** at the University of Kentucky, I have led a
 ---
 
 ![University of Kentucky, Chem-Phys Bldg](/portfolio-bruce.github.io/images/UKy_Chem-Phys-Bldg.jpg){: .align-right width="500px"}
-
 *Figure 3: My favorite view of the department.*
 
 ## 📚 **Education**
