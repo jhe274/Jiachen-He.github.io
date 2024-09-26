@@ -9,8 +9,8 @@ redirect_from:
   - 
 ---
 
-<figure>
-  <img src="/portfolio-bruce.github.io/images/Faraday_lab1.jpg" alt="Faraday Lab overlook" style="width:500px">
+<figure style="float: right; width: 500px;">
+  <img src="/portfolio-bruce.github.io/images/Faraday_lab1.jpg" alt="Faraday Lab overlook" style="width: 100%;">
   <figcaption><em>Take a look at where I work.</em></figcaption>
 </figure>
 
@@ -36,8 +36,8 @@ I have developed and maintained several Python packages that contribute to scien
 
 You can explore all my software contributions on my [GitHub profile](https://github.com/jhe274), where I promote transparency and collaboration in scientific research.
 
-<figure>
-  <img src="/portfolio-bruce.github.io/images/Faraday_lab2.jpg" alt="Faraday Lab overlook" style="width:500px">
+<figure style="float: right; width: 500px;">
+  <img src="/portfolio-bruce.github.io/images/Faraday_lab2.jpg" alt="Faraday Lab overlook" style="width: 100%;">
   <figcaption><em>Take another look at where I work.</em></figcaption>
 </figure>
 
@@ -56,8 +56,8 @@ As a **Graduate Research Assistant** at the University of Kentucky, I have led a
 
 ---
 
-<figure>
-  <img src="/portfolio-bruce.github.io/images/UKy_Chem-Phys-Bldg.jpg" alt="Chem-Phys Bldg, University of Kentucky" style="width:500px">
+<figure style="float: right; width: 500px;">
+  <img src="/portfolio-bruce.github.io/images/UKy_Chem-Phys-Bldg.jpg" alt="Chem-Phys Bldg, University of Kentucky" style="width: 100%;">
   <figcaption><em>My favorite view of the department.</em></figcaption>
 </figure>
 <!-- ![University of Kentucky, Chem-Phys Bldg](/portfolio-bruce.github.io/images/UKy_Chem-Phys-Bldg.jpg){: .align-right width="500px"}
