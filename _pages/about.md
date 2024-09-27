@@ -27,7 +27,7 @@ redirect_from:
 ## Selected Experience
 
 ### 🔧 **Scientific Software Development**
-I have developed and maintained several Python packages that contribute to scientific research, including:
+Strong background in scientific coding, personally developed and maintained several Python packages that contribute to scientific research, including:
 - **Faraday Rotation Data Analysis**: A tool for analyzing rotation measurements with high sensitivity, crucial for advanced magnetometry.
 - **Synchronous Data Acquisition (SDAQ)**: A modular system that facilitates seamless communication between scientific instruments, such as wavelength meters, laser controllers, and lock-in amplifiers using Python
 
@@ -39,14 +39,14 @@ You can explore all my software contributions on my [GitHub profile](https://git
 </figure>
 
 ### 🌀 **Polarization Modulation Ellipsometry**
-I am an expert in **birefringence measurement systems**, with particular emphasis on system setup, calibration, and optimization. Using lock-in amplifiers, Muller calculus, and waveform analysis, I have achieved **sub-μrad accuracy** in measuring sensitive optical signals.
+Expert in **birefringence measurement systems**, with particular emphasis on system setup, calibration, and optimization. Using lock-in amplifiers, Muller calculus, and waveform analysis, I have achieved **sub-μrad accuracy** in measuring sensitive optical signals.
 
 ### 🧲 **Magnetic Field Design**
 - Designed and developed a **Merritt coil system** for generating uniform magnetic fields, utilizing Python and finite element analysis (COMSOL).
 - Collaborated closely with machine shop teams to build and test the system, which plays a critical role in my research on **active magnetic field cancellation**.
 
 ### 🔦 **Laser Frequency Stabilization**
-I have extensive experience in **laser frequency stabilization**, employing advanced techniques such as **Pound-Drever-Hall (PDH)** locking and **Doppler-free saturated absorption spectroscopy (DSAS)** in complex optical systems to achieve precise frequency control.
+Extensive experience in **laser frequency stabilization**, employing advanced techniques such as **Pound-Drever-Hall (PDH)** locking and **Doppler-free saturated absorption spectroscopy (DSAS)** in complex optical systems to achieve precise frequency control.
 
 ### 🧊 **Cryogenic and Vacuum Systems operation**
 Contributed to system calibration and maintenance of a cryogenic system, gaining hands-on experience with vacuum technologies over five years.
