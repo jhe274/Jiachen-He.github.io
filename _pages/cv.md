@@ -60,7 +60,7 @@ Skills
 ======
 * **Programming Languages**: Python, C++, LaTeX
 * **Instrumentation & Electronics**:
-  * External Cavity Diode Lasers (ECDL), Optical Alignment, Fiber Optics, Polarimetry
+  * Laser Optics, Fiber Optics, Optical Alignment, ECDL, Polarimetry
   * Lock-in Amplifiers (LIA), Photoelastic Modulator (PEM), Electro-optic modulator (EOM), RF Signal Generators
   * Fluxgate/Hall Effect Magnetometer, Oscilloscopes, Spectrum Analyzers
   * Cryogenic system, Vacuum chamber
