@@ -35,7 +35,7 @@ You can explore all my software contributions on my [GitHub profile](https://git
 
 <figure style="float: right; width: 500px;">
   <img src="/portfolio-bruce.github.io/images/Faraday_lab2.jpg" alt="Faraday Lab overlook" style="width: 100%;">
-  <figcaption><em>Take another look at where I work.</em></figcaption>
+  <figcaption><em>Where science and innovation come together..</em></figcaption>
 </figure>
 
 ### 🌀 **Polarization Modulation Ellipsometry**
