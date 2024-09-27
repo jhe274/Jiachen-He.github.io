@@ -14,13 +14,13 @@ redirect_from:
   <figcaption><em>Take a look at where I work.</em></figcaption>
 </figure>
 
-👨‍💻 I’m a final-year Ph.D. candidate in Physics at the University of Kentucky, specializing in **lasers, optics, and magnetic field design**.
+👨‍💻 Final-year Ph.D. candidate in Physics at the University of Kentucky, specializing in **lasers, optics, and magnetic field design**.
 
-🔬 My research focuses on advanced **optical and magnetic systems**, with an emphasis on the **magneto-optic effect**, data acquisition, analysis, and the development of high-precision instrumentation.
+🔬 Engaged in cutting-edge research on optical and magnetic systems, with a focus on the magneto-optic effect, advanced data acquisition / analysis techniques, and the development of high-precision instrumentation.
 
-🎓 Currently, I am working towards completing my Ph.D. dissertation, where I am developing a **sensitive optical magnetometer utilizing the resonant Faraday effect**. Additionally, I have created Python-based systems for **synchronous data acquisition** and designed a **Merritt coil system** for **active magnetic field cancellation**.
+🎓 Currently working on a Ph.D. dissertation that involves developing a **sensitive optical magnetometer using the resonant Faraday effect**. Additionally, extensive work has been done on Python-based systems for **synchronous data acquisition** and designing a **Merritt coil system** for active magnetic field cancellation.
 
-🎯 I am passionate about integrating machine learning, quantum technology, and engineering principles with Python, C++, and other software tools to optimize scientific workflows, advance hardware development, and enhance the precision of experimental outcomes.
+🎯 Driven by a passion for integrating machine learning, quantum technology, and engineering expertise to streamline scientific workflows. Proficient in Python, C++, and a suite of tools, applying them to innovate across hardware and software development while pushing the boundaries of experimental precision.
 
 ---
 
