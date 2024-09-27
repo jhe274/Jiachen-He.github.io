@@ -19,7 +19,7 @@ Professional Experience
 ======
 * **Graduate Research Assistant**  
   University of Kentucky, August 2019 - Present  
-  - **Software Development**: Developed Python package for the wavelength meter, facilitating efficient communication and buffer usage without relying on low-level SCPI commands.
+  - **Software Development**: Strong background in scientific programming, developed Python package for the wavelength meter, facilitating efficient communication and buffer usage without relying on low-level SCPI commands.
 
   - **Data Analysis**: Created and implemented multiple Python scripts for comprehensive Faraday rotation data analysis. All scripts and packages are available on GitHub to promote transparency and collaboration in scientific research.
 
@@ -35,7 +35,7 @@ Professional Experience
 
   - **Cryogenic and Vacuum Systems**: Contributed to system calibration and maintenance of a cryogenic system, gaining hands-on experience with vacuum technologies over five years.
 
-  - **Ongoing Projects**: Machine learning algorithms for real-time magnetic field cancellation, Python package for Gaussmeter and implementing side-band laser locking using EOM.
+  - **Ongoing Projects**: Machine learning algorithms for real-time magnetic field cancellation, software development for scientific instruments and implementing side-band laser locking using EOM.
   
 * **Graduate Teaching Assistant**  
   University of Kentucky, August 2017 - May 2019  
