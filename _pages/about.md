@@ -27,7 +27,7 @@ redirect_from:
 ## Selected Experience
 
 ### 🔧 **Scientific Software Development**
-Strong background in scientific coding, personally developed and maintained several Python packages that contribute to scientific research, including:
+Strong background in scientific programming, personally developed and maintained several Python packages that contribute to scientific research, including:
 - **Faraday Rotation Data Analysis**: A tool for analyzing rotation measurements with high sensitivity, crucial for advanced magnetometry.
 - **Synchronous Data Acquisition (SDAQ)**: A modular system that facilitates seamless communication between scientific instruments, such as wavelength meters, laser controllers, and lock-in amplifiers using Python
 
