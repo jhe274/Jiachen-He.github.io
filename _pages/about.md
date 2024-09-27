@@ -48,7 +48,7 @@ Expert in **birefringence measurement systems**, with particular emphasis on sys
 ### 🔦 **Laser Frequency Stabilization**
 Extensive experience in **laser frequency stabilization**, employing advanced techniques such as **Pound-Drever-Hall (PDH)** locking and **Doppler-free saturated absorption spectroscopy (DSAS)** in complex optical systems to achieve precise frequency control.
 
-### 🧊 **Cryogenic and Vacuum Systems operation**
+### 🧊 **Cryogenic and Vacuum Systems**
 Contributed to system calibration and maintenance of a cryogenic system, gaining hands-on experience with vacuum technologies over five years.
 
 ### 🖥️ **Professional Experience**
