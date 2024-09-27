@@ -48,6 +48,9 @@ I am an expert in **birefringence measurement systems**, with particular emphasi
 ### 🔦 **Laser Frequency Stabilization**
 I have extensive experience in **laser frequency stabilization**, employing advanced techniques such as **Pound-Drever-Hall (PDH)** locking and **Doppler-free saturated absorption spectroscopy (DSAS)** in complex optical systems to achieve precise frequency control.
 
+### 🧊 **Cryogenic and Vacuum Systems operation**
+Contributed to system calibration and maintenance of a cryogenic system, gaining hands-on experience with vacuum technologies over five years.
+
 ### 🖥️ **Professional Experience**
 As a **Graduate Research Assistant** at the University of Kentucky, I have led and contributed to numerous research projects focused on **optical alignment, polarization modulation, and magnetic field optimization**. I have worked closely with cross-functional teams to design and implement custom experimental setups using state-of-the-art optical and laser technologies.
 

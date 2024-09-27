@@ -33,11 +33,13 @@ Professional Experience
 
   - **Laser Frequency Stabilization**: Extensive experience in spectroscopic laser frequency stabilization using PDH and DSAS techniques with alkali metals (Rb, K).
 
+  - **Cryogenic and Vacuum Systems**: Contributed to system calibration and maintenance of a cryogenic system, gaining hands-on experience with vacuum technologies over five years.
+
   - **Ongoing Projects**: Machine learning algorithms for real-time magnetic field cancellation, Python package for Gaussmeter and implementing side-band laser locking using EOM.
   
 * **Graduate Teaching Assistant**  
   University of Kentucky, August 2017 - May 2019  
-  - Instructed undergraduate physics labs and provided support for coursework.
+  - Instructed undergraduate students in Newtonian mechanics, electromagnetism, and physical optics through hands-on lab sessions and interactive recitations, fostering a deeper understanding of core physics concepts.
   - Assisted in preparing teaching materials, grading, and answering student inquiries during lab sessions.
 
 * **Summer Research Assistant**  
@@ -58,9 +60,10 @@ Skills
 ======
 * **Programming Languages**: Python, C++, LaTeX
 * **Instrumentation & Electronics**:
-  * Optical Alignment, Fiber Optics, Polarimetry
-  * Lock-in Amplifiers, Photoelastic Modulator, RF Signal Generators
+  * External Cavity Diode Lasers (ECDL), Optical Alignment, Fiber Optics, Polarimetry
+  * Lock-in Amplifiers (LIA), Photoelastic Modulator (PEM), Electro-optic modulator (EOM), RF Signal Generators
   * Fluxgate/Hall Effect Magnetometer, Oscilloscopes, Spectrum Analyzers
+  * Cryogenic system, Vacuum chamber
 * **Software**:
   * COMSOL Multiphysics, MATLAB, Mathematica
   * LabVIEW, Autodesk Inventor, Microsoft Office
