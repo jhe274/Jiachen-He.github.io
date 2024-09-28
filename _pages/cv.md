@@ -64,7 +64,7 @@ Skills
   * ***Signal Processing and Modulation***: Lock-in Amplifiers, Photoelastic Modulator, Electro-optic modulator (EOM), RF Signal Generators
   * ***Measurement Devices***: Fluxgate/Hall Effect Magnetometer, Oscilloscopes, Spectrum Analyzers
 * **Optical Metrology**:
-  * Polarization Modulation Ellipsometry, optical alignment, precision optical measurements, interferometry.
+  * Polarization Modulation Ellipsometry, Optical Alignment, Precision Optical Measurements, Interferometry.
 * **Cryogenic system**:
   * Cryostat, Helium/Nitrogen Management, Temperature Sensors, Vacuum Technology, Thermal Management, Leak Detection, Instrumentation and Control
 * **Software**:
