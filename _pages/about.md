@@ -38,8 +38,8 @@ You can explore all my software contributions on my [GitHub profile](https://git
   <figcaption><em>Where science and innovation come together..</em></figcaption>
 </figure>
 
-### 🌀 **Polarization Modulation Ellipsometry**
-Expert in **birefringence measurement systems**, with particular emphasis on system setup, calibration, and optimization. Using lock-in amplifiers, Muller calculus, and waveform analysis, I have achieved **sub-μrad accuracy** in measuring sensitive optical signals.
+### 🌀 **Optical Metrology**
+Expert in **polarization modulation ellipsomtry**, with particular emphasis on system setup, calibration, and optimization. Using lock-in amplifiers, Muller calculus, and waveform analysis, I have achieved **sub-μrad accuracy** in measuring sensitive optical signals.
 
 ### 🧲 **Magnetic Field Design**
 - Designed and developed a **Merritt coil system** for generating uniform magnetic fields, utilizing Python and finite element analysis (COMSOL).
