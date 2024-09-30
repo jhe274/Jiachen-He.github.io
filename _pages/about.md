@@ -46,7 +46,7 @@ Expert in **polarization modulation ellipsomtry**, with particular emphasis on s
 - Collaborated closely with machine shop teams to build and test the system, which plays a critical role in my research on **active magnetic field cancellation**.
 
 ### 🔦 **Laser Frequency Stabilization**
-Extensive experience in **laser frequency stabilization**, employing advanced techniques such as **Pound-Drever-Hall (PDH)** locking and **Doppler-free saturated absorption spectroscopy (DSAS)** in complex optical systems to achieve precise frequency control.
+Extensive experience in **laser frequency stabilization**, employing advanced techniques such as **Pound-Drever-Hall** locking and **Doppler-free saturated absorption spectroscopy** in complex optical systems to achieve precise frequency control.
 
 ### 🧊 **Cryogenic and Vacuum Systems**
 Contributed to system calibration and maintenance of a cryogenic system, gaining hands-on experience with vacuum technologies over five years.
