@@ -20,7 +20,7 @@ Professional Experience
 * **Graduate Research Assistant**  
   University of Kentucky, August 2019 - Present  
 
-  - **Optical Metrology**: Expert in birefringence measurement system, including calibration and optimization. Performed precise optical alignment, utilizing lock-in amplifiers, Muller calculus, and waveform analysis to achieve sub-μrad accuracy in sensitive optical signal measurements.
+  - **Optical Metrology**: Expert in birefringence measurement system. Performed precise optical alignment, system calibration and optimization, utilizing lock-in amplifiers, Muller calculus, and waveform analysis to achieve sub-μrad accuracy in sensitive optical signal measurements.
 
   - **Software Development**: Strong background in scientific programming, developed Python package for the wavelength meter, facilitating efficient communication and buffer usage without relying on low-level SCPI commands.
 
