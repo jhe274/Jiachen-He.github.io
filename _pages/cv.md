@@ -27,11 +27,11 @@ Professional Experience
     
   - **Polarization Modulation Ellipsometry**: Expert in birefringence measurement system, including calibration and optimization. Performed precise optical alignment, utilizing lock-in amplifiers, Muller calculus, and waveform analysis to achieve sub-$\mu$rad accuracy in sensitive optical signal measurements.
     
-  - **Merritt Coil Development and Implementation**: Designed and simulated (using Python) a Merritt coil system, followed by Autodesk Inventor modeling to incorporate mechanical engineering tasks for its development and construction. Collaborated closely with machine shop teams to ensure successful project delivery.
+  - **Merritt Coil Development and Implementation**: Designed and simulated a Merritt coil system using Python, with each coil having a 65 cm side length, generating a uniform 25 G magnetic field with less than 10 mG/cm gradient. Modeled the system in Autodesk Inventor to incorporate mechanical engineering tasks and collaborated closely with machine shop teams to ensure successful project delivery.
     
-  - **Magnetic Field Design**: Independently developed a magnet box prototype, applying finite element analysis (COMSOL) to create uniform magnetic fields with shielding. This early-career project deepened my experience with FEA software and involved leveraging concepts like magnetic scalar potential and image fields.
+  - **Compact Magnetic Field Design**: Independently developed a magnet box prototype using COMSOL and MATLAB Simulink, generating a 7 G magnetic field with a 20 mG/cm gradient over a 10 cm range. The box, measuring approximately 18 cm x 18 cm x 33 cm, enhanced my expertise in FEA and involved leveraging concepts like magnetic scalar potential and image fields.
 
-  - **Laser Frequency Stabilization**: Extensive experience in spectroscopic laser frequency stabilization using PDH and DSAS techniques with alkali metals (Rb, K).
+  - **Laser Frequency Stabilization**: Extensive experience in spectroscopic laser locking using PDH and DSAS techniques with cavities and alkali metals (Rb, K), reducing laser frequency drift to 200 kHz/h, more than 10,000 times more stable than unlocked laser.
 
   - **Cryogenic and Vacuum Systems**: Contributed to system calibration and maintenance of a cryogenic system, gaining hands-on experience with vacuum technologies over five years.
 
