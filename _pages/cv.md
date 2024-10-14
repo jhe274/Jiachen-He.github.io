@@ -25,7 +25,7 @@ Professional Experience
 
   - **Synchronous Data Acquisition (SDAQ)**: Proficient in developing modular Python-based SDAQ systems for communication with scientific instruments such as digital I/O interfaces, wavelength meters, laser controllers, lock-in amplifiers, and Gaussmeters. The system efficiently initializes, configures, and synchronizes instruments, sending TTL-level pulse trigger signals and recording data in their buffers.
     
-  - **Polarization Modulation Ellipsometry**: Expert in birefringence measurement system, including calibration and optimization. Performed precise optical alignment, utilizing lock-in amplifiers, Muller calculus, and waveform analysis to achieve sub-$\mu$rad accuracy in sensitive optical signal measurements.
+  - **Polarization Modulation Ellipsometry**: Expert in birefringence measurement system, including calibration and optimization. Performed precise optical alignment, utilizing lock-in amplifiers, Muller calculus, and waveform analysis to achieve sub-μrad accuracy in sensitive optical signal measurements.
     
   - **Merritt Coil Development and Implementation**: Designed and simulated a Merritt coil system using Python, with each coil having a 65 cm side length, generating a uniform 25 G magnetic field with less than 10 mG/cm gradient. Modeled the system in Autodesk Inventor to incorporate mechanical engineering tasks and collaborated closely with machine shop teams to ensure successful project delivery.
     
