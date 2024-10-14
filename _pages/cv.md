@@ -28,7 +28,7 @@ Professional Experience
 
   - **Synchronous Data Acquisition (SDAQ)**: Proficient in developing modular Python-based SDAQ systems for communication with scientific instruments such as digital I/O interfaces, wavelength meters, laser controllers, lock-in amplifiers, and Gaussmeters. The system efficiently initializes, configures, and synchronizes instruments, sending TTL-level pulse trigger signals and recording data in their buffers.
     
-  - **Merritt Coil Development and Implementation**: Designed and simulated a Merritt coil system using Python, with each coil having a 65 cm side length, generating a uniform 25 G magnetic field with less than 10 mG/cm gradient in a 40 cm long range. Modeled the system in Autodesk Inventor to incorporate mechanical engineering tasks and collaborated closely with machine shop teams to ensure successful project delivery.
+  - **Merritt Coil Development and Implementation**: Designed and simulated a Merritt coil system using Python, with each coil having a 65 cm side length, generating a uniform 25 G magnetic field with less than 10 mG/cm gradient in a 40 cm range. Modeled the system in Autodesk Inventor to incorporate mechanical engineering tasks and collaborated closely with machine shop teams to ensure successful project delivery.
 
   - **Laser Frequency Stabilization**: Extensive experience in spectroscopic laser locking using PDH and DSAS techniques with cavities and alkali metals (Rb, K), reducing laser frequency drift to 200 kHz/h, more than 110 times more stable than unlocked laser.
     
