@@ -22,6 +22,8 @@ Professional Experience
 
   - **Optical Metrology**: Expert in birefringence measurement system. Performed precise optical alignment, system calibration and optimization, utilizing lock-in amplifiers, Muller calculus, and waveform analysis to achieve sub-μrad accuracy in sensitive optical signal measurements.
 
+  - **Laser Frequency Stabilization**: Extensive experience in spectroscopic laser locking using PDH and DSAS techniques with cavities and alkali metals (Rb, K), reducing laser frequency drift to 200 kHz/h, more than 110 times more stable than unlocked laser.
+
   - **Software Development**: Strong background in scientific programming, developed Python package for the wavelength meter, facilitating efficient communication and buffer usage without relying on low-level SCPI commands.
 
   - **Data Analysis**: Created and implemented multiple Python scripts for comprehensive Faraday rotation data analysis. All scripts and packages are available on GitHub to promote transparency and collaboration in scientific research.
@@ -30,8 +32,6 @@ Professional Experience
     
   - **Merritt Coil Development and Implementation**: Designed and simulated a Merritt coil system using Python, with each coil having a 65 cm side length, generating a uniform 25 G magnetic field with less than 10 mG/cm gradient over a 40 cm range. Modeled the system in Autodesk Inventor to incorporate mechanical engineering tasks and collaborated closely with machine shop teams to ensure successful project delivery.
 
-  - **Laser Frequency Stabilization**: Extensive experience in spectroscopic laser locking using PDH and DSAS techniques with cavities and alkali metals (Rb, K), reducing laser frequency drift to 200 kHz/h, more than 110 times more stable than unlocked laser.
-    
   - **Compact Magnetic Field Design**: Independently developed a magnet box prototype using COMSOL and MATLAB Simulink, generating a 7 G magnetic field with a 20 mG/cm gradient over a 10 cm range. The box, measuring approximately 18 cm x 18 cm x 33 cm, enhanced my expertise in FEA and involved leveraging concepts like magnetic scalar potential and image fields.
 
   - **Cryogenic and Vacuum Systems**: Contributed to system calibration and maintenance of a cryogenic system, gaining hands-on experience with vacuum technologies over five years.
