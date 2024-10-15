@@ -41,12 +41,12 @@ You can explore all my software contributions on my [GitHub profile](https://git
 ### 🌀 **Optical Metrology**
 Expert in **polarization modulation ellipsomtry**, with particular emphasis on system setup, calibration, and optimization. Using lock-in amplifiers, Muller calculus, and waveform analysis, I have achieved **sub-μrad accuracy** in measuring sensitive optical signals.
 
+### 🔦 **Laser Frequency Stabilization**
+Extensive experience in **laser locking**, employing advanced techniques such as **Pound-Drever-Hall** locking and **Doppler-free saturated absorption spectroscopy** in complex optical systems to achieve precise frequency control.
+
 ### 🧲 **Magnetic Field Design**
 - Designed and developed a **Merritt coil system** for generating uniform magnetic fields, utilizing Python and finite element analysis (COMSOL).
 - Collaborated closely with machine shop teams to build and test the system, which plays a critical role in my research on **active magnetic field cancellation**.
-
-### 🔦 **Laser Frequency Stabilization**
-Extensive experience in **laser locking**, employing advanced techniques such as **Pound-Drever-Hall** locking and **Doppler-free saturated absorption spectroscopy** in complex optical systems to achieve precise frequency control.
 
 ### 🧊 **Cryogenic and Vacuum Systems**
 Contributed to system calibration and maintenance of a cryogenic system, gaining hands-on experience with vacuum technologies over five years.
