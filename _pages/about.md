@@ -26,7 +26,7 @@ redirect_from:
 
 ## Selected Experience
 
-<figure style="float: left; width: 500px;">
+<figure style="float: right; width: 500px;">
   <img src="/portfolio-bruce.github.io/images/Faraday_lab2.jpg" alt="Faraday Lab overlook" style="width: 100%;">
   <figcaption><em>Where science and innovation come together..</em></figcaption>
 </figure>
