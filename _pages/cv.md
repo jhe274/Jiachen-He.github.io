@@ -30,7 +30,7 @@ Professional Experience
 
   - **Synchronous Data Acquisition (SDAQ)**: Proficient in developing modular Python-based SDAQ systems for communication with scientific instruments such as digital I/O interfaces, wavelength meters, laser controllers, lock-in amplifiers, and Gaussmeters. The system efficiently initializes, configures, and synchronizes instruments, sending TTL-level pulse trigger signals and recording data in their buffers with sub-millisecond time differences.
     
-  - **Merritt Coil Development and Implementation**: Designed and simulated a Merritt coil system using Python, with each coil having a 65 cm side length, generating a uniform 25 G magnetic field with less than 10 mG/cm gradient over a 40 cm range. Modeled the system in Autodesk Inventor to incorporate mechanical engineering tasks and collaborated closely with machine shop teams to ensure successful project delivery.
+  - **Merritt Coil Development and Implementation**: Designed and simulated a compact Merritt coil system as a replacement for Helmholtz coils, reducing size by 6x while doubling the longitudinal field gradient and increasing the uniform field range by 33%. Utilized Python and Autodesk Inventor, collaborating closely with machine shop teams to ensure successful implementation..
 
   - **Compact Magnetic Field Design**: Independently developed a magnet box prototype using COMSOL and MATLAB Simulink, generating a 7 G magnetic field with a 20 mG/cm gradient over a 10 cm range. The box, measuring approximately 18 cm x 18 cm x 33 cm, enhanced my expertise in FEA and involved leveraging concepts like magnetic scalar potential and image fields.
 
