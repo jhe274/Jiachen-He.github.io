@@ -46,7 +46,7 @@ Extensive experience in **laser locking**, employing advanced techniques such as
 
 <figure style="float: right; width: 500px;">
   <img src="/portfolio-bruce.github.io/images/Merrit_coil_system.jpg" alt="Merrit coil system" style="width: 100%;">
-  <figcaption><em>Where science and innovation come together..</em></figcaption>
+  <figcaption><em>Compact magnetic field design and engineering.</em></figcaption>
 </figure>
 
 ### 🧲 **Magnetic Field Design**
