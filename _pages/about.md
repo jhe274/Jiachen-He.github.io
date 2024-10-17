@@ -45,7 +45,7 @@ Expert in **polarization modulation ellipsomtry**, with particular emphasis on s
 Extensive experience in **laser locking**, employing advanced techniques such as **Pound-Drever-Hall** locking and **Doppler-free saturated absorption spectroscopy** in complex optical systems to achieve precise frequency control.
 
 <figure style="float: left; width: 500px;">
-  <img src="/portfolio-bruce.github.io/images/Merrit_coil_system.jpg" alt="Faraday Lab overlook" style="width: 100%;">
+  <img src="/portfolio-bruce.github.io/images/Merrit_coil_system.jpg" alt="Merrit coil system" style="width: 100%;">
   <figcaption><em>Where science and innovation come together..</em></figcaption>
 </figure>
 
