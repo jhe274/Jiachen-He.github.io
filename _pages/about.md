@@ -14,7 +14,7 @@ redirect_from:
   <figcaption><em>Take a look at where I work.</em></figcaption>
 </figure>
 
-👨‍💻 Final-year Ph.D. candidate in physics at the University of Kentucky, specializing in **open quantum systems, laser optics, and magnetic field design**.
+👨‍💻 Final-year Ph.D. candidate in physics at the University of Kentucky, specializing in **open quantum systems, optical metrology, and magnetic field design**.
 
 🔬 Engaged in cutting-edge research on optical and magnetic systems, with a focus on the magneto-optic effect, advanced data acquisition / analysis techniques, and the development of high-precision instrumentation.
 
