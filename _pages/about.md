@@ -18,6 +18,12 @@ redirect_from:
 
 🔬 Engaged in cutting-edge research on optical and magnetic systems, with a focus on the magneto-optic effect, advanced data acquisition / analysis techniques, and the development of high-precision instrumentation.
 
+## About the Faraday Lab
+
+Click [here](https://pa.as.uky.edu/video/inside-lab-physics-faraday-lab-and-kerr-lab) if you want to learn more about the Faraday Lab. 
+
+The video provides a closer look at the exciting research and experiments conducted in the lab.
+
 🎓 Currently working on a Ph.D. dissertation that involves developing a **sensitive optical magnetometer using the resonant Faraday effect**. Additionally, extensive work has been done on Python-based systems for **synchronous data acquisition** and designing a **Merritt coil system** for active magnetic field cancellation.
 
 🎯 Driven by a passion for integrating machine learning, quantum technology, and engineering expertise to streamline scientific workflows. Proficient in Python, C++, and a suite of tools, applying them to innovate across hardware and software development while pushing the boundaries of experimental precision.
