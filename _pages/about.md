@@ -24,9 +24,7 @@ redirect_from:
 
 ## About the Faraday Lab
 
-Click [here](https://pa.as.uky.edu/video/inside-lab-physics-faraday-lab-and-kerr-lab) if you want to learn more about the Faraday Lab. 
-
-The video provides a closer look at the exciting research and experiments conducted in the lab.
+📽️ Click [here](https://pa.as.uky.edu/video/inside-lab-physics-faraday-lab-and-kerr-lab) if you want to learn more about the Faraday Lab. 
 
 ## Selected Experience
 
