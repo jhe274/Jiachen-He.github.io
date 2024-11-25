@@ -20,7 +20,7 @@ redirect_from:
 
 🎓 Currently working on a Ph.D. dissertation that involves developing a **sensitive optical magnetometer using the resonant Faraday effect**. Additionally, extensive work has been done on Python-based systems for **synchronous data acquisition** and designing a **Merritt coil system** for active magnetic field cancellation.
 
-🎯 Driven by a passion for integrating machine learning, quantum technology, and engineering expertise to streamline scientific workflows. Proficient in Python, C++, and a suite of tools, applying them to innovate across hardware and software development while pushing the boundaries of experimental precision.
+🎯 Driven by a passion for optics, quantum technology, and engineering expertise to streamline scientific workflows. Proficient in Python, C++, and a suite of tools, applying them to innovate across hardware and software development while pushing the boundaries of experimental precision.
 
 ## About the Faraday Lab
 
@@ -44,7 +44,7 @@ You can explore all my software contributions on my [GitHub profile](https://git
 Expert in **polarization modulation ellipsomtry**, with particular emphasis on system setup, calibration, and optimization. Using lock-in amplifiers, Muller calculus, and waveform analysis, I have achieved **sub-μrad accuracy** in measuring sensitive optical signals.
 
 ### 🔦 **Laser Frequency Stabilization**
-Extensive experience in **laser locking**, employing advanced techniques such as **Pound-Drever-Hall** locking and **Doppler-free saturated absorption spectroscopy** in complex optical systems to achieve precise frequency control.
+Extensive experience in **laser locking**, employing advanced techniques such as **Pound-Drever-Hall** locking and **Doppler-free saturated absorption spectroscopy**, integrating complex optical systems and electro-optical devices to achieve high-precision frequency control.
 
 <figure style="float: right; width: 500px;">
   <img src="/portfolio-bruce.github.io/images/Merrit_coil_system.jpg" alt="Merrit coil system" style="width: 100%;">
