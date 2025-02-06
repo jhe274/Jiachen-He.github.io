@@ -24,11 +24,11 @@ Professional Experience
 
   - **Laser Frequency Stabilization**: Extensive experience in spectroscopic laser locking using PDH and DSAS techniques with cavities and alkali metals (Rb, K), reducing laser frequency drift to 200 kHz/h -- over 110 times more stable than unlocked systems. Implemented sideband locking over 40 GHz using a 6 GHz bandwidth EOM for precise frequency control.
 
-  - **Software Development**: Strong background in scientific programming, developed Python package for the wavelength meter, facilitating efficient communication and buffer usage without relying on low-level SCPI commands.
+  - **Software Development**: Strong background in scientific programming, developed Python package for the wavelength meter, Gaussmeter in combination with multiple other instruments for synchronized data acquisition, facilitating efficient communication and buffer usage without relying on low-level SCPI commands.
 
   - **Data Analysis**: Created and implemented multiple Python scripts for comprehensive Faraday rotation data analysis. All scripts and packages are available on GitHub to promote transparency and collaboration in scientific research.
 
-  - **Synchronous Data Acquisition (SDAQ)**: Proficient in developing modular Python-based SDAQ systems for communication with scientific instruments such as digital I/O interfaces, wavelength meters, laser controllers, lock-in amplifiers, and Gaussmeters. The system efficiently initializes, configures, and synchronizes instruments, sending TTL-level pulse trigger signals and recording data in their buffers with sub-millisecond time differences.
+  - **Synchronous Data Acquisition (SDAQ)**: Proficient in developing modular Python-based SDAQ systems for communication with scientific instruments such as digital I/O interfaces, wavelength meters, laser controllers, lock-in amplifiers, and Gaussmeter. The system efficiently initializes, configures, and synchronizes instruments, sending TTL-level pulse trigger signals and recording data in their buffers with sub-millisecond time differences.
     
   - **Merritt Coil Development and Implementation**: Designed and simulated a compact Merritt coil system to replace Helmholtz coils, reducing the size by 6x while doubling the longitudinal field gradient and increasing the uniform field range by 33%. Utilized Python and Autodesk Inventor, collaborating closely with machine shop teams to ensure successful implementation.
 
@@ -36,7 +36,7 @@ Professional Experience
 
   - **Cryogenic and Vacuum Systems**: Contributed to system calibration and maintenance of a cryogenic system, gaining hands-on experience with vacuum technologies over five years.
 
-  - **Ongoing Projects**: Machine learning algorithms for real-time magnetic field cancellation, software development for scientific instruments and implementing side-band laser locking using EOM.
+  - **Ongoing Projects**: Machine learning algorithms for real-time magnetic field cancellation.
   
 * **Graduate Teaching Assistant**  
   University of Kentucky, August 2017 - May 2019  

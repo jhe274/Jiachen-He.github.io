@@ -35,8 +35,8 @@ redirect_from:
 
 ### 🔧 **Scientific Software Development**
 Strong background in scientific programming, personally developed and maintained several Python packages that contribute to scientific research, including:
-- **Faraday Rotation Data Analysis**: A tool for analyzing rotation measurements with high sensitivity, crucial for advanced magnetometry.
-- **Synchronous Data Acquisition**: A modular system that facilitates seamless communication between scientific instruments, such as wavelength meters, laser controllers, and lock-in amplifiers using Python
+- **Faraday_DA**: A tool for analyzing rotation measurements with high sensitivity, crucial for advanced magnetometry.
+- **Faraday_DAQ**: A modular system that facilitates seamless communication between scientific instruments, such as wavelength meters, Gaussmeter, laser controllers, and lock-in amplifiers using Python.
 
 You can explore all my software contributions on my [GitHub profile](https://github.com/jhe274), where I promote transparency and collaboration in scientific research.
 
@@ -60,6 +60,13 @@ Contributed to system calibration and maintenance of a cryogenic system, gaining
 
 ### 🖥️ **Professional Experience**
 As a **Graduate Research Assistant** at the University of Kentucky, I have led and contributed to numerous research projects focused on **optical alignment, polarization modulation, and magnetic field optimization**. I have worked closely with cross-functional teams to design and implement custom experimental setups using state-of-the-art optical and laser technologies.
+
+### 🧑‍🏫 **Collaboration & Leadership**
+I am passionate about fostering the next generation of scientists and engineers through mentorship and collaboration:
+
+- **High School Mentorship**: Guided a high school student through a scientific project to explore **the polarization of light** and measure the **speed of light** using cavity mirrors and a rotating mirror.
+- **Undergraduate Mentorship**: Supervised multiple undergraduate students during the **Research Experiences for Undergraduates (REU) program**, including one from **MIT**, providing theoretical guidance on **the resonant Faraday effect in a two-level system**. This work culminated in a **presentation at the 2024 Division of Nuclear Physics (DNP) Meeting**.
+- **Community Engagement**: Previously served as the **representative of the Physics Department in the University of Kentucky Graduate Student Congress (GSC)** and was appointed as the **Department of Physics & Astronomy Alumni Liaison**, a role in which I am honored to serve.
 
 ---
 
