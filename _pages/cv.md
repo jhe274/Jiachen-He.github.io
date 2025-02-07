@@ -20,7 +20,7 @@ Professional Experience
 * **Graduate Research Assistant**  
   University of Kentucky, August 2019 - Present  
 
-  - **Optical Metrology**: Expert in polarization modulation ellipsometry. Performed precise optical alignment, system calibration and optimization, utilizing lock-in amplifiers, Mueller calculus, and waveform analysis to achieve sub-μrad accuracy in sensitive optical signal measurements.
+  - **Optical Metrology**: Expert in polarization modulation ellipsometry, specializing in precise optical alignment, system calibration, and optimization. Utilized lock-in amplifiers, Mueller calculus, and magneto-optic effects to develop a optical magnetometer with a system sensitivity of 2.5 μrad/10 mG.
 
   - **Laser Frequency Stabilization**: Extensive experience in spectroscopic laser locking using PDH and DSAS techniques with cavities and alkali metals (Rb, K), reducing laser frequency drift to 200 kHz/h -- over 110 times more stable than unlocked systems. Implemented sideband locking over 40 GHz using a 6 GHz bandwidth EOM for precise frequency control.
 
