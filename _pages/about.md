@@ -18,7 +18,7 @@ redirect_from:
 
 ⚛️ Engaged in cutting-edge research on optical and magnetic systems, with a focus on the magneto-optic effect, laser frequency stabilization, advanced data acquisition / analysis techniques, and the development of high-precision instrumentation.
 
-🎓 Currently working on a Ph.D. dissertation that involves developing a **sensitive optical magnetometer using the resonant Faraday effect**. Additionally, extensive work has been done on Python-based systems for **synchronous data acquisition** and designing a **Merritt coil system** for active magnetic field cancellation.
+🎓 Currently working on a Ph.D. dissertation that involves developing a **sensitive optical magnetometer using the resonant Faraday effect**. Additionally, extensive work has been done on **laser frequency stabilization**, Python-based systems for **synchronous data acquisition** and designing a **Merritt coil system** to generate compact uniform magnetic field.
 
 🎯 Driven by a passion for optics, quantum technology, and engineering expertise to streamline scientific workflows. Proficient in Python, C++, and a suite of tools, applying them to innovate across hardware and software development while pushing the boundaries of experimental precision.
 
