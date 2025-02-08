@@ -15,6 +15,8 @@ Education
 * M.S. in Physics, University of Kentucky, 2019
 * B.E. in Measurement Control Technology and Instruments, Shenzhen University, 2017
 
+---
+
 Professional Experience
 ======
 * **Graduate Research Assistant**  
@@ -57,6 +59,8 @@ Professional Experience
   Shenzhen University, September 2012 - October 2013
   - Research on the Design of Temperature-controlled Automatic Watering Device
 
+---
+
 Skills
 ======
 * **Programming Languages**: Python, C++, LaTeX
@@ -73,11 +77,15 @@ Skills
 * **Platforms**:
   * Unix-based OS (Linux, Mac OS), Microsoft Windows
 
+---
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+---
 
 Talks
 ======
@@ -85,11 +93,15 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
+---
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+---
 
 Honors & Awards
 ======
@@ -142,10 +154,14 @@ Leadership & Collaborations
   *2019 - Present*  
   - Partnered with machine shop engineers with a strong track record of designing custom-made electronic devices and developing a Merritt coil winding system.
 
+---
+
 Professional Affiliations
 ======
 * **American Physical Society (APS)**, 2021 - Present
 * **Society of Photo-Optical Instrumentation Engineers (SPIE)**, 2024 - Present
+
+---
 
 Volunteering
 ======
