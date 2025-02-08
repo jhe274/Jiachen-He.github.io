@@ -20,7 +20,7 @@ Professional Experience
 * **Graduate Research Assistant**  
   University of Kentucky, August 2019 - Present  
 
-  - **Optical Metrology**: Expert in polarization modulation ellipsometry, specializing in precise optical alignment, system calibration, and optimization. Utilized lock-in amplifiers, Mueller calculus, and magneto-optic effects to develop a optical magnetometer with a system sensitivity of 2.5 μrad/10 mG.
+  - **Optical Metrology**: Expert in polarization modulation ellipsometry, specializing in precise optical alignment, system calibration, and optimization. Developed a system for detecting minute magnetic field variations associated with spin-polarized Helium-3 targets using magneto-optic effects, achieving a sensitivity of 2.5 μrad per 10 mG.
 
   - **Laser Frequency Stabilization**: Extensive experience in spectroscopic laser locking using PDH and DSAS techniques with cavities and alkali metals (Rb, K), reducing laser frequency drift to 200 kHz/h -- over 110 times more stable than unlocked systems. Implemented sideband locking over 40 GHz using a 6 GHz bandwidth EOM for precise frequency control.
 
@@ -28,7 +28,7 @@ Professional Experience
 
   - **Data Analysis**: Created and implemented multiple Python scripts for comprehensive Faraday rotation data analysis. All scripts and packages are available on GitHub to promote transparency and collaboration in scientific research.
 
-  - **Synchronous Data Acquisition (SDAQ)**: Proficient in developing modular Python-based SDAQ systems for communication with scientific instruments such as wavelength meters, laser controllers, lock-in amplifiers, and Gaussmeter. The system efficiently initializes, configures, and synchronizes instruments, sending TTL-level pulse trigger signals and recording data in their buffers with sub-millisecond time differences.
+  - **Synchronous Data Acquisition (SDAQ)**: Proficient in developing modular Python-based SDAQ systems for communication with scientific instruments such as wavelength meter, laser controller, lock-in amplifiers, and Gaussmeter. The system efficiently initializes, configures, and synchronizes instruments, sending TTL-level pulse trigger signals and recording data in their buffers with sub-millisecond time differences.
     
   - **Merritt Coil Development and Implementation**: Designed and simulated a compact Merritt coil system to replace Helmholtz coils, reducing the size by 6x while doubling the longitudinal field gradient and increasing the uniform field range by 33%. Utilized Python and Autodesk Inventor, collaborating closely with machine shop teams to ensure successful implementation.
 

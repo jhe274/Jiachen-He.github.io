@@ -41,7 +41,7 @@ Strong background in scientific programming, personally developed and maintained
 You can explore all my software contributions on my [GitHub profile](https://github.com/jhe274), where I promote transparency and collaboration in scientific research.
 
 ### 🌀 **Optical Metrology**
-Expert in **polarization modulation ellipsomtry**, with particular emphasis on system setup, calibration, and optimization. Using lock-in amplifiers, Mueller calculus, and waveform analysis, I have achieved **sub-μrad accuracy** in measuring sensitive optical signals.
+Expert in **polarization modulation ellipsomtry**, with particular emphasis on system setup, calibration, and optimization. Developed a system for detecting minute magnetic field variations associated with spin-polarized Helium-3 targets using magneto-optic effects, achieving a sensitivity of 2.5 μrad per 10 mG.
 
 ### 🔦 **Laser Frequency Stabilization**
 Extensive experience in **laser locking**, employing advanced techniques such as **Pound-Drever-Hall** locking and **Doppler-free saturated absorption spectroscopy**, integrating complex optical systems and electro-optical devices to achieve high-precision frequency control.
