@@ -91,7 +91,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Honors & Awards
+Honors & Awards
+======
 - **Graduate Student Congress Representative**  
   *University of Kentucky*  
   *August 2023 - August 2024*  
@@ -114,7 +115,8 @@ Teaching
 
 ---
 
-## Leadership & Collaborations
+Leadership & Collaborations
+======
 - **Alumni Liaison**  
   *University of Kentucky*  
   *February 2025 - Present*  
