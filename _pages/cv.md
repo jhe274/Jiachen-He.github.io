@@ -28,8 +28,6 @@ Professional Experience
 
   - **Software Development**: Strong background in scientific programming, developed Python package for the wavelength meter, Gaussmeter in combination with multiple other instruments for synchronized data acquisition, facilitating efficient communication and buffer usage without relying on low-level SCPI commands.
 
-  - **Data Analysis**: Created and implemented multiple Python scripts for comprehensive Faraday rotation data analysis. All scripts and packages are available on GitHub to promote transparency and collaboration in scientific research.
-
   - **Synchronous Data Acquisition (SDAQ)**: Proficient in developing modular Python-based SDAQ systems for communication with scientific instruments such as wavelength meter, laser controller, lock-in amplifiers, and Gaussmeter. The system efficiently initializes, configures, and synchronizes instruments, sending TTL-level pulse trigger signals and recording data in their buffers with sub-millisecond time differences.
     
   - **Merritt Coil Development and Implementation**: Designed and simulated a compact Merritt coil system to replace Helmholtz coils, reducing the size by 6x while doubling the longitudinal field gradient and increasing the uniform field range by 33%. Utilized Python and Autodesk Inventor, collaborating closely with machine shop teams to ensure successful implementation.
@@ -63,19 +61,15 @@ Professional Experience
 
 Skills
 ======
-* **Programming Languages**: Python, C++, LaTeX
-* **Instrumentation & Electronics**:
-  * ***Optics & Photonics***: Laser Optics, Fiber Optics, Solid-State Lasers, Polarimeter
-  * ***Signal Processing and Modulation***: Lock-in Amplifiers, Photoelastic Modulator, Electro-optic modulator (EOM), RF Signal Generators
-  * ***Measurement Devices***: Fluxgate/Hall Effect Magnetometer, Oscilloscopes, Spectrum Analyzers
-* **Optical Metrology**:
-  * Polarization Modulation Ellipsometry, Optical Alignment, Precision Optical Measurements, Interferometry.
-* **Cryogenic system**:
-  * Cryostat, Helium/Nitrogen Management, Temperature Sensors, Vacuum Technology, Thermal Management, Leak Detection, Instrumentation and Control
-* **Software**:
-  * COMSOL Multiphysics, MATLAB, Mathematica, LabVIEW, Autodesk Inventor, Microsoft Office
-* **Platforms**:
-  * Unix-based OS (Linux, Mac OS), Microsoft Windows
+* **Laser & Optical Systems**: Laser optics, fiber optics, solid-state lasers, polarization modulation ellipsometry, polarimetry, interferometry
+* **Instrumentation & Electronics**: Lock-in amplifiers, electro-optic modulators, RF signal generators,
+spectrum analyzers, oscilloscopes, photodetectors
+* **Cryogenic system**: Cryostat, Helium/Nitrogen Management, Temperature Sensors, Vacuum Technology, Thermal Management, Leak Detection, Instrumentation and Control
+* **Software & Programming**: Python (scientific computing, hardware automation), C++, MATLAB, Zemax, COMSOL,
+Autodesk Inventor, LabVIEW, Mathematica
+* **Simulation & Modeling**: Magnetic field design (Merritt coils, finite element analysis), optical metrology, quantum light-matter
+interaction
+* **Platforms & Systems**: Unix/Linux, Windows, real-time synchronous data acquisition (SDAQ)
 
 ---
 
