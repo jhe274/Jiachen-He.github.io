@@ -28,7 +28,7 @@ Professional Experience
 
   - **Software Development**: Strong background in scientific programming, developed Python package for the wavelength meter, Gaussmeter in combination with multiple other instruments for synchronized data acquisition, facilitating efficient communication and buffer usage without relying on low-level SCPI commands.
 
-  - **Synchronous Data Acquisition (SDAQ)**: Proficient in developing modular Python-based SDAQ systems for communication with scientific instruments such as wavelength meter, laser controller, lock-in amplifiers, and Gaussmeter. The system efficiently initializes, configures, and synchronizes instruments, sending TTL-level pulse trigger signals and recording data in their buffers with sub-millisecond time differences.
+  - **Lab Automation**: Proficient in developing modular Python-based synchronous data acquisition systems for communication with scientific instruments such as wavelength meter, laser controller, lock-in amplifiers, and Gaussmeter. The system efficiently initializes, configures, and synchronizes instruments, sending TTL-level pulse trigger signals and recording data in their buffers with sub-millisecond time differences.
     
   - **Merritt Coil Development and Implementation**: Designed and simulated a compact Merritt coil system to replace Helmholtz coils, reducing the size by 6x while doubling the longitudinal field gradient and increasing the uniform field range by 33%. Utilized Python and Autodesk Inventor, collaborating closely with machine shop teams to ensure successful implementation.
 
@@ -69,7 +69,7 @@ spectrum analyzers, oscilloscopes, photodetectors
 Autodesk Inventor, LabVIEW, Mathematica
 * **Simulation & Modeling**: Magnetic field design (Merritt coils, finite element analysis), optical metrology, quantum light-matter
 interaction
-* **Platforms & Systems**: Unix/Linux, Windows, real-time synchronous data acquisition (SDAQ)
+* **Platforms & Systems**: Unix/Linux, Windows, Python based synchronous data acquisition system
 
 ---
 
