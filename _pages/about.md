@@ -35,8 +35,8 @@ redirect_from:
 
 ### 🔧 **Scientific Software Development**
 Strong background in object-orientated programming, personally developed and maintained several Python packages that contribute to scientific research, including:
-- **Faraday_DA**: A tool for analyzing rotation measurements with high sensitivity, crucial for advanced magnetometry.
-- **Faraday_DAQ**: A modular system that facilitates seamless communication between scientific instruments, such as wavelength meters, Gaussmeter, laser controllers, and lock-in amplifiers using Python.
+- **Faraday_DA**: A tool for analyzing rotation measurements with a focus on script automation, supporting Faraday rotation measurements.
+- **Faraday_DAQ**: A modular system that facilitates seamless communication between scientific instruments, such as wavelengthmeter, Gaussmeter, laser controller, and lock-in amplifiers using Python.
 
 You can explore all my software contributions on my [GitHub profile](https://github.com/jhe274), where I promote transparency and collaboration in scientific research.
 
