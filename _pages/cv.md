@@ -33,7 +33,7 @@ Professional Experience
     
   - **Merritt Coil Development and Implementation**: Designed and simulated a compact Merritt coil system to replace Helmholtz coils, reducing the size by 6x while doubling the longitudinal field gradient and increasing the uniform field range by 33%. Utilized Python and Autodesk Inventor, collaborating closely with machine shop teams to ensure successful implementation.
 
-  - **Compact Magnetic Field Design**: Independently developed a magnet box prototype using COMSOL and MATLAB Simulink, generating a 7 G magnetic field with a 20 mG/cm gradient over a 10 cm range. The box, measuring approximately 18 cm x 18 cm x 33 cm, enhanced my expertise in FEA and involved leveraging concepts like magnetic scalar potential and image fields.
+  - **Compact Magnetic Field Design**: Independently developed a magnet box prototype using COMSOL and MATLAB Simulink, generating a $7\ \text{G}$ magnetic field with a $20\ \text{mG}/\text{cm}$ gradient over a $10\ \text{cm}$ range. The box, measuring approximately $18\ \text{cm}\times18\ \text{cm}\times33\ \text{cm}$, enhanced my expertise in FEA and involved leveraging concepts like magnetic scalar potential and image fields.
 
   - **Cryogenic and Vacuum Systems**: Contributed to system calibration and maintenance of a cryogenic system, gaining hands-on experience with vacuum technologies over five years.
 
