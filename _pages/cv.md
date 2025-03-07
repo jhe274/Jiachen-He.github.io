@@ -23,11 +23,11 @@ Professional Experience
 * **Graduate Research Assistant**  
   University of Kentucky, August 2019 - Present  
 
-  - **Optical Metrology**: Expert in polarization modulation ellipsometry, specializing in precise optical alignment, system calibration, and optimization. Developed a system for detecting minute magnetic field variations associated with spin-polarized helium-3 targets using magneto-optic effects without magnetic shielding, achieving a shot-noise limited sensitivity of $1.2\times10^{-5}\,\text{G}/\sqrt{\text{Hz}}$ under room temperature.
+  - **Optical Metrology**: Expert in polarization modulation ellipsometry, specializing in precise optical alignment, system calibration, and optimization. Developed a system for detecting minute magnetic field variations associated with spin-polarized helium-3 targets using magneto-optic effects without magnetic shielding, achieving a shot-noise limited sensitivity of $1.2\times10^{-5}\ \text{G}/\sqrt{\text{Hz}}$ under room temperature.
 
-  - **Laser Frequency Stabilization**: Extensive experience in spectroscopic laser locking using PDH and DSAS techniques with cavities and alkali metals (Rb, K), reducing laser frequency drift to 200 kHz/h -- over 110 times more stable than unlocked systems. Implemented sideband locking over 40 GHz using a 6 GHz bandwidth EOM for precise frequency control.
+  - **Laser Frequency Stabilization**: Extensive experience in spectroscopic laser locking using PDH and DSAS techniques with cavities and alkali metals (Rb, K), reducing laser frequency drift to $200\ \text{kHz}/\text{h}$ -- over $110$ times more stable than unlocked systems. Implemented sideband locking over $40\ \text{GHz}$ using a $6\ \text{GHz}$ bandwidth EOM for precise frequency control.
 
-  - **Software Development**: Published two Python packages on \href{https://github.com/jhe274/Faraday_DAQ}{GitHub} using object-orientated programming to interface with scientific instruments like wavelength meter and Gaussmeter, eliminating reliance on low-level SCPI commands while optimizing buffer management and communication protocols.
+  - **Software Development**: Published two Python packages on [GitHub](https://github.com/jhe274/Faraday_DAQ) using object-orientated programming to interface with scientific instruments like wavelength meter and Gaussmeter, eliminating reliance on low-level SCPI commands while optimizing buffer management and communication protocols.
 
   - **Lab Automation**: Proficient in developing modular Python-based synchronous data acquisition systems for communication with scientific instruments such as wavelength meter, laser controller, lock-in amplifiers, and Gaussmeter. The system efficiently initializes, configures, and synchronizes instruments, sending TTL-level pulse trigger signals and recording data in their buffers with sub-millisecond time differences.
     
