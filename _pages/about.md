@@ -18,7 +18,7 @@ redirect_from:
 
 ⚛️ Engaged in cutting-edge research on optical and magnetic systems, with a focus on the magneto-optic effect, laser frequency stabilization, advanced data acquisition / analysis techniques, and the development of high-precision instrumentation.
 
-🎓 Currently working on a Ph.D. dissertation that involves developing a **sensitive optical magnetometer using the resonant Faraday effect**. Additionally, extensive work has been done on **laser frequency stabilization**, Python-based systems for **synchronous data acquisition** and designing a **Merritt coil system** to generate compact uniform magnetic field.
+🎓 Currently working on a Ph.D. dissertation that involves developing a **sensitive optical magnetometer based on the resonant Faraday effect**. Additionally, extensive work has been done on **laser frequency stabilization**, Python-based systems for **synchronous data acquisition** and designing a **Merritt coil system** to generate compact uniform magnetic field.
 
 🎯 Driven by a passion for optics, quantum technology, and engineering expertise to streamline scientific workflows. Proficient in Python, C++, and a suite of tools, applying them to innovate across hardware and software development while pushing the boundaries of experimental precision.
 
@@ -34,14 +34,14 @@ redirect_from:
 </figure>
 
 ### 🔧 **Scientific Software Development**
-Strong background in scientific programming, personally developed and maintained several Python packages that contribute to scientific research, including:
+Strong background in object-orientated programming, personally developed and maintained several Python packages that contribute to scientific research, including:
 - **Faraday_DA**: A tool for analyzing rotation measurements with high sensitivity, crucial for advanced magnetometry.
 - **Faraday_DAQ**: A modular system that facilitates seamless communication between scientific instruments, such as wavelength meters, Gaussmeter, laser controllers, and lock-in amplifiers using Python.
 
 You can explore all my software contributions on my [GitHub profile](https://github.com/jhe274), where I promote transparency and collaboration in scientific research.
 
 ### 🌀 **Optical Metrology**
-Expert in **polarization modulation ellipsomtry**, with particular emphasis on system setup, calibration, and optimization. Developed a system for detecting minute magnetic field variations associated with spin-polarized Helium-3 targets using magneto-optic effects, achieving a sensitivity of 2.5 μrad per 10 mG.
+Expert in **polarization modulation ellipsomtry**, with particular emphasis on system setup, calibration, and optimization. Developed a system for detecting minute magnetic field variations associated with spin-polarized Helium-3 targets using magneto-optic effects without magnetic shielding, achieving a shot-noise limited sensitivity of $1.2\times10^{-5}\,\text{G}/\sqrt{\text{Hz}}$.
 
 ### 🔦 **Laser Frequency Stabilization**
 Extensive experience in **laser locking**, employing advanced techniques such as **Pound-Drever-Hall** locking and **Doppler-free saturated absorption spectroscopy**, integrating complex optical systems and electro-optical devices to achieve high-precision frequency control.
