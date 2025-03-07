@@ -9,13 +9,15 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    {% if page.use_math %}
+      {% include mathjax.html %}
+    {% endif %}
   </head>
 
   <body>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
-
     {{ content }}
 
     <div class="page__footer">
