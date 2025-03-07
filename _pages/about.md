@@ -2,6 +2,7 @@
 permalink: /
 title: "👋🏼 Welcome, I'm Jiachen He!"
 author_profile: true
+use_math: true
 redirect_from: 
   - /about/
   - /about.html
