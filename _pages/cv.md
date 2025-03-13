@@ -23,7 +23,7 @@ Professional Experience
 * **Graduate Research Assistant**  
   University of Kentucky, August 2019 - Present  
 
-  - **Optical Metrology**: Expert in polarization modulation ellipsometry, specializing in precise optical alignment, system calibration, and optimization. Developed a system for detecting minute magnetic field variations associated with spin-polarized helium-3 targets using magneto-optic effects without magnetic shielding, achieving a shot-noise limited sensitivity of $1.2\times10^{-5}\ \text{G}/\sqrt{\text{Hz}}$ under room temperature.
+  - **Optical Metrology**: Expert in polarization modulation ellipsometry, specializing in precise optical alignment, system calibration, and optimization. Developed a system for detecting minute magnetic field variations associated with spin-polarized helium-3 targets using magneto-optic effects without magnetic shielding, achieving a shot-noise limited sensitivity of $4.8\times10^{-5}\ \text{G}/\sqrt{\text{Hz}}$ under room temperature.
 
   - **Laser Frequency Stabilization**: Extensive experience in spectroscopic laser locking using PDH and DSAS techniques with cavities and alkali metals (Rb, K), reducing laser frequency drift to $200\ \text{kHz}/\text{h}$ -- over $110$ times more stable than unlocked systems. Implemented sideband locking over $40\ \text{GHz}$ using a $6\ \text{GHz}$ bandwidth EOM for precise frequency control.
 
