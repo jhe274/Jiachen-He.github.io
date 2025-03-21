@@ -23,7 +23,7 @@ Professional Experience
 * **Graduate Research Assistant**  
   University of Kentucky, August 2019 - Present  
 
-  - **Optical Metrology**: Expert in polarization modulation ellipsometry, specializing in precise optical alignment, system calibration, and optimization. Developed a system for detecting minute magnetic field variations associated with spin-polarized helium-3 targets using magneto-optic effects without magnetic shielding, achieving a shot-noise limited sensitivity of $4.8\times10^{-5}\ \text{G}/\sqrt{\text{Hz}}$ under room temperature.
+  - **Optical Metrology**: Expert in polarization modulation ellipsometry, specializing in precise optical alignment, system calibration, and optimization. Developed a system for detecting minute magnetic field variations associated with spin-polarized helium-3 targets using magneto-optic effects without magnetic shielding, achieving a shot-noise limited sensitivity of $4.8\times10^{-11}\ \text{G}/\sqrt{\text{Hz}}$ under spin-exchange optical pumping operating temperautre ($\sim510\ \text{K}$).
 
   - **Laser Frequency Stabilization**: Extensive experience in spectroscopic laser locking using PDH and DSAS techniques with cavities and alkali metals (Rb, K), reducing laser frequency drift to $200\ \text{kHz}/\text{h}$ -- over $110$ times more stable than unlocked systems. Implemented sideband locking over $40\ \text{GHz}$ using a $6\ \text{GHz}$ bandwidth EOM for precise frequency control.
 
@@ -62,7 +62,7 @@ Professional Experience
 
 Skills
 ======
-* **Laser & Optical Systems**: Laser optics, fiber optics, solid-state lasers, polarization modulation ellipsometry, polarimetry, interferometry
+* **Laser & Optical Systems**: Laser optics, fiber optics, solid-state lasers, polarization modulation ellipsometry, spin-exchange optical pumping (SEOP), polarimetry, interferometry
 * **Instrumentation & Electronics**: Lock-in amplifiers, electro-optic modulators, RF signal generators,
 spectrum analyzers, oscilloscopes, photodetectors
 * **Cryogenic system**: Cryostat, Helium/Nitrogen Management, Temperature Sensors, Vacuum Technology, Thermal Management, Leak Detection, Instrumentation and Control
