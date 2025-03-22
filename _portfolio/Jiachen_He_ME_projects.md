@@ -1,6 +1,6 @@
 ---
 title: "Mechanical Engineering Projects"
-excerpt: "Selected ME projects during grad school<br/><img src='images/Jiachen_He_Merritt_coil_master_view.png'>"
+excerpt: "Highlights of mechanical engineering projects completed during graduate school<br/><img src='images/Jiachen_He_Merritt_coil_master_view.png'>"
 collection: portfolio
 date: 2024-10-01
 ---
