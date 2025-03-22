@@ -14,7 +14,7 @@ Education
 ======
 * Ph.D. in Physics, University of Kentucky, (Expected Graduation: May 2025)
 * M.S. in Physics, University of Kentucky, 2019
-* B.E. in Measurement Control Technology and Instruments, Shenzhen University, 2017
+* B.E. in Measurement Control Technology and Instruments (equivalent to EE), Shenzhen University, 2017
 
 ---
 
