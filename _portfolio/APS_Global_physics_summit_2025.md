@@ -1,6 +1,6 @@
 ---
 title: "Using the resonant Faraday effect to probe external magnetic fields"
-excerpt: "APS Global Physics Summit 2025<br/><img src='images/Jiachen_He_APS_GPS_2025.png'>"
+excerpt: "APS Global Physics Summit 2025<br/><img src='images/Jiachen_He_APS_GPS_2025_cover.png'>"
 collection: portfolio
 ---
 

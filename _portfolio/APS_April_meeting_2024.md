@@ -1,6 +1,6 @@
 ---
 title: "Resonant Faraday rotation measurements in a potassium vapor cell"
-excerpt: "APS April Meeting 2024<br/><img src='images/Jiachen_He_APS_April_meeting_2024.png'>"
+excerpt: "APS April Meeting 2024<br/><img src='images/Jiachen_He_APS_April_meeting_2024_cover.png'>"
 collection: portfolio
 ---
 
