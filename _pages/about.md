@@ -85,7 +85,8 @@ I am passionate about fostering the next generation of scientists and engineers 
 
 ## 📜 **Publications and Presentations**
 - **Electric Charging Effects on Insulating Surfaces in Cryogenic Liquids**, *Review of Scientific Instruments*.
-- **Faraday Rotation Measurements in Potassium Vapor Cells**, presented at the American Physical Society April Meeting, 2024.
+- **Using the Resonant Faraday Effect to Probe External Magnetic Fields**, presented at the American Physical Society Global Physics Summit, 2025.
+- **Faraday Rotation Measurements in a Potassium Vapor Cell**, presented at the American Physical Society April Meeting, 2024.
 
 ---
 
