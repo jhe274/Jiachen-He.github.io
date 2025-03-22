@@ -100,17 +100,13 @@ Teaching
 
 Honors & Awards
 ======
-- **Graduate Student Congress Representative**  
-  *University of Kentucky*  
-  *August 2023 - August 2024*  
-
 - **Graduate Student Congress (GSC) Conference Award**  
   *University of Kentucky*  
   *April 2024*  
 
 - **Huffaker Travel Scholarship**  
   *Department of Physics & Astronomy, University of Kentucky*  
-  *July 2022, April 2024*  
+  *July 2022, April 2024, March 2025*  
 
 - **Departmental Fellowship for Graduate Students with an Outstanding Curriculum**  
   *Department of Physics & Astronomy, University of Kentucky*  
@@ -134,15 +130,15 @@ Leadership & Collaborations
   *August 2023 - August 2024*  
   - Represented the Physics Department in GSC, advocating for graduate student interests and promoting interdisciplinary collaboration.
 
-- **High School Mentorship**  
-  *University of Kentucky*  
-  *September 2023 - May 2024*  
-  - Guided a high school student in a scientific project exploring light polarization and measuring the speed of light using Herriott-style cavity mirrors and a custom-built rotating mirror.
-
 - **Undergraduate Mentorship**  
   *University of Kentucky*  
   *2021 - 2024*  
   - Supervised multiple undergraduate students, including a Research Experiences for Undergraduates (REU) participant from MIT, providing theoretical guidance on the resonant Faraday effect in a two-level system. The project culminated in a presentation at the 2024 Division of Nuclear Physics (DNP) Meeting.
+
+- **High School Mentorship**  
+  *University of Kentucky*  
+  *September 2023 - May 2024*  
+  - Guided a high school student in a scientific project exploring light polarization and measuring the speed of light using Herriott-style cavity mirrors and a custom-built rotating mirror.
 
 - **Collaboration with Engineers**  
   *University of Kentucky*  
