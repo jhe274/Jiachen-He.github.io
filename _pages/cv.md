@@ -31,7 +31,7 @@ Professional Experience
 
   - **Lab Automation**: Proficient in developing modular Python-based synchronous data acquisition systems for communication with scientific instruments such as wavelength meter, laser controller, lock-in amplifiers, and Gaussmeter. The system efficiently initializes, configures, and synchronizes instruments, sending TTL-level pulse trigger signals and recording data in their buffers with sub-millisecond time differences.
     
-  - **Merritt Coil Development and Implementation**: Designed and simulated a compact Merritt coil system to replace Helmholtz coils, reducing the size by 6x while doubling down the longitudinal field gradient and increasing the uniform field range by 33%. Utilized Python and Autodesk Inventor, collaborating closely with machine shop teams to ensure successful implementation.
+  - **Merritt Coil Development and Implementation**: Designed and simulated a compact Merritt coil system to replace Helmholtz coils, reducing the size by 6x while halving the longitudinal field gradient and increasing the uniform field range by 33%. Utilized Python and Autodesk Inventor, collaborating closely with machine shop teams to ensure successful implementation.
 
   - **Compact Magnetic Field Design**: Independently developed a magnet box prototype using COMSOL and MATLAB Simulink, generating a $7\ \text{G}$ magnetic field with a $20\ \text{mG}/\text{cm}$ gradient over a $10\ \text{cm}$ range. The box, measuring approximately $18\ \text{cm}\times18\ \text{cm}\times33\ \text{cm}$, enhanced my expertise in FEA and involved leveraging concepts like magnetic scalar potential and image fields.
 
