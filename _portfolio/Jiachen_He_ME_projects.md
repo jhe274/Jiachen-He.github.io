@@ -1,5 +1,5 @@
 ---
-title: "Mechanical Engineering Design Portfolio"
+title: "Mechanical Engineering Portfolio"
 excerpt: "Mechanical engineering projects<br/><img src='images/Merritt_coil_master_view.png'>"
 collection: portfolio
 date: 2024-10-01
