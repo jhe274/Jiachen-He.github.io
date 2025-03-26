@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 <figure style="float: right; width: 500px;">
-  <img src="/portfolio-bruce.github.io/images/Faraday_lab1.jpg" alt="Faraday Lab overlook" style="width: 100%;">
+  <img src="/Jiachen-He.github.io/images/Faraday_lab1.jpg" alt="Faraday Lab overlook" style="width: 100%;">
   <figcaption><em>Take a look at where I work.</em></figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ redirect_from:
 ## Selected Experience
 
 <figure style="float: right; width: 500px;">
-  <img src="/portfolio-bruce.github.io/images/Faraday_lab2.jpg" alt="Faraday Lab overlook" style="width: 100%;">
+  <img src="/Jiachen-He.github.io/images/Faraday_lab2.jpg" alt="Faraday Lab overlook" style="width: 100%;">
   <figcaption><em>Where science and innovation come together..</em></figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Expert in **polarization modulation ellipsomtry**, with particular emphasis on s
 Extensive experience in **laser locking**, employing advanced techniques such as **Pound-Drever-Hall** locking and **Doppler-free saturated absorption spectroscopy**, integrating complex optical systems and electro-optical devices to achieve high-precision frequency control.
 
 <figure style="float: right; width: 500px;">
-  <img src="/portfolio-bruce.github.io/images/Merrit_coil_system.jpg" alt="Merrit coil system" style="width: 100%;">
+  <img src="/Jiachen-He.github.io/images/Merrit_coil_system.jpg" alt="Merrit coil system" style="width: 100%;">
   <figcaption><em>Compact magnetic field design and engineering.</em></figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ I am passionate about fostering the next generation of scientists and engineers 
 ---
 
 <figure style="float: right; width: 500px;">
-  <img src="/portfolio-bruce.github.io/images/UKy_Chem-Phys-Bldg.jpg" alt="Chem-Phys Bldg, University of Kentucky" style="width: 100%;">
+  <img src="/Jiachen-He.github.io/images/UKy_Chem-Phys-Bldg.jpg" alt="Chem-Phys Bldg, University of Kentucky" style="width: 100%;">
   <figcaption><em>My favorite view of the Chem-Phys Bldg at University of Kentucky.</em></figcaption>
 </figure>
 
