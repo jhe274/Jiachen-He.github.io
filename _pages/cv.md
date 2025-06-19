@@ -25,7 +25,7 @@ Professional Experience
 
   - **Optical Metrology**: Expert in polarization modulation ellipsometry, specializing in precise optical alignment, system calibration, and optimization. Developed a system for detecting minute magnetic field variations associated with spin-polarized helium-3 targets using magneto-optic effects without magnetic shielding, estimating a shot noise limited sensitivity of $4.8\times10^{-11}\ \text{G}/\sqrt{\text{Hz}}$ under spin-exchange optical pumping operating temperautre ($\sim510\ \text{K}$).
 
-  - **Laser Frequency Stabilization**: Extensive experience in spectroscopic laser locking using PDH and DSAS techniques with cavities and alkali metals (Rb, K), reducing laser frequency drift to $200\ \text{kHz}/\text{h}$ -- over $110$ times more stable than unlocked systems. Implemented sideband locking over $40\ \text{GHz}$ using a $6\ \text{GHz}$ bandwidth EOM for precise frequency control.
+  - **Laser Frequency Stabilization**: Extensive experience in spectroscopic laser locking using PDH and DSAS techniques with cavities and alkali metals (Rb, K), reducing laser frequency drift to $200\ \text{kHz}/\text{h}$ -- over $110$ times more stable than unlocked systems. Implemented sideband locking over $24\ \text{GHz}$ using a $6\ \text{GHz}$ bandwidth EOM for precise frequency control.
 
   - **Software Development**: Published two Python packages on [GitHub](https://github.com/jhe274/Faraday_DAQ) using object-orientated programming to interface with scientific instruments like wavelength meter and Gaussmeter, eliminating reliance on low-level SCPI commands while optimizing buffer management and communication protocols.
 
