@@ -77,7 +77,7 @@ I am passionate about fostering the next generation of scientists and engineers 
 </figure>
 
 ## 📚 **Education**
-- **Ph.D. in Physics**, University of Kentucky (Expected Graduation: May 2025)
+- **Ph.D. in Physics**, University of Kentucky
 - **M.S. in Physics**, University of Kentucky
 - **B.E. in Measurement Control Technology and Instruments (equivalent to EE)**, Shenzhen University
 
