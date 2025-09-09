@@ -132,7 +132,7 @@ Leadership & Collaborations
 
 - **Undergraduate Mentorship**  
   *University of Kentucky*  
-  *2021 - 2024*  
+  *2021 - 2025*  
   - Supervised multiple undergraduate students, including a Research Experiences for Undergraduates (REU) participant from MIT, providing theoretical guidance on the resonant Faraday effect in a two-level system. The project culminated in a presentation at the 2024 Division of Nuclear Physics (DNP) Meeting.
 
 - **High School Mentorship**  
