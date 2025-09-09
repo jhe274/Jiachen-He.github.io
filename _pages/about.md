@@ -15,9 +15,9 @@ redirect_from:
   <figcaption><em>Take a look at where I work.</em></figcaption>
 </figure>
 
-👨‍💻 Final-year Ph.D. candidate in physics at the University of Kentucky, specializing in **open quantum systems, optical metrology, and magnetic field design**.
+👨‍💻 Final-year Ph.D. candidate in physics at the University of Kentucky, specializing in **quantum sensing, optical metrology, and magnetic field design**.
 
-⚛️ Engaged in research on optical and magnetic systems, with a focus on the magneto-optic effect, laser frequency stabilization, advanced data acquisition / analysis techniques, and the development of high-precision instrumentation.
+⚛️ Engaged in research on optical and magnetic systems, with a focus on the nonlinear magneto-optic effect, laser frequency stabilization, advanced data acquisition / analysis techniques, and the development of high-precision instrumentation.
 
 🎓 Currently working on a Ph.D. dissertation that involves developing a **sensitive optical magnetometer based on the resonant nonlinear Faraday effect**. Additionally, extensive work has been done on **laser frequency stabilization**, Python-based systems for **synchronous data acquisition** and designing a **Merritt coil system** to generate compact uniform magnetic field.
 
